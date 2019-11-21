@@ -1,0 +1,3 @@
+BioSample	isolation_country	collection_year
+SAMN07978240	United Kingdom,Australia	2009	patric,ncbi
+SAMN08162228	United Kingdom,Australia	2009	patric,ncbi
