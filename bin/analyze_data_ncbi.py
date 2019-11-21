@@ -79,6 +79,6 @@ df["tag"]=["ncbi"]*df.shape[0]
 
 # solving collisions. These samples are from Hong Kong according to NCBI and from China according to Patric
 list_hk_biosamples=["SAMN06292067","SAMN06292065", "SAMN06292590", "SAMN07414819", "SAMN07414820", "SAMN06292592"]
-df.loc[tab.BioSample.isin(list_hk_biosamples), 'isolation_country'] = "China"
+df.loc[df.BioSample.isin(list_hk_biosamples), 'isolation_country'] = "China"
 
 df.to_csv("./metadata/sources/ncbi/ncbi.geo_sampling", index=False, sep="\t")

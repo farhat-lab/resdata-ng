@@ -47,11 +47,11 @@ with open("./metadata/summary_tables/geo_sampling.txt","w") as outf1:
             count_isolation_country=len(l[item]["isolation_country"])
             count_collection_year=len(l[item]["collection_year"])
             if count_isolation_country <= 1 and count_collection_year <= 1:
-                outf1.write("{}\t{}\t{}t\{}\n".format(item, ",".join(l[biosample]["isolation_country"]), ",".join(l[biosample]["collection_year"]), ",".join(l[biosample]["tag"])))
+                outf1.write("{}\t{}\t{}\t{}\n".format(item, ",".join(l[item]["isolation_country"]), ",".join(l[item]["collection_year"]), ",".join(l[item]["tag"])))
                 counter_ok=counter_ok+1
             else:
                 print("{}:".format(item),l[item])
-                outf2.write("{}\t{}\t{}\t{}\n".format(item, ",".join(l[biosample]["isolation_country"]), ",".join(l[biosample]["collection_year"]), ",".join(l[biosample]["tag"])))
+                outf2.write("{}\t{}\t{}\t{}\n".format(item, ",".join(l[item]["isolation_country"]), ",".join(l[item]["collection_year"]), ",".join(l[item]["tag"])))
                 counter_collisions=counter_collisions+1
 
 print("* Statistics")
