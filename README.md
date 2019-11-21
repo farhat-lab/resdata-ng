@@ -163,5 +163,5 @@ This is the original paper ("Prediction of Susceptibility to First-Line Tubercul
 ## Changelog
 
 - version 2.0.0
-  - metadata (geographic location, collection year) from NCBI and PATRIC.
+  - summary tables for the metadata (geographic location, collection year). Sources: NCBI and PATRIC. 
 
