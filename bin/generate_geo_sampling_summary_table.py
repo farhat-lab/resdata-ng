@@ -18,16 +18,20 @@ for f in files_to_parse:
             year=entry[2]
             tag=entry[3]
             if biosample in l:
-                l[biosample]["isolation_country"][country]=1
-                l[biosample]["collection_year"][year]=1
+                if country:
+                    l[biosample]["isolation_country"][country]=1
+                if year:
+                    l[biosample]["collection_year"][year]=1
                 l[biosample]["tag"][tag]=1
             else:
                 l[biosample]={}
                 l[biosample]["isolation_country"]={}
                 l[biosample]["collection_year"]={}
                 l[biosample]["tag"]={}
-                l[biosample]["isolation_country"][country]=1
-                l[biosample]["collection_year"][year]=1
+                if country:
+                    l[biosample]["isolation_country"][country]=1
+                if year:
+                    l[biosample]["collection_year"][year]=1
                 l[biosample]["tag"][tag]=1
 
 # I manage the collisions and write down the final tables
@@ -42,11 +46,11 @@ with open("./metadata/summary_tables/geo_sampling.txt","w") as outf1:
         for item in l:
             count_isolation_country=len(l[item]["isolation_country"])
             count_collection_year=len(l[item]["collection_year"])
-            if count_isolation_country == 1 and count_collection_year == 1:
+            if count_isolation_country <= 1 and count_collection_year <= 1:
                 outf1.write("{}\t{}\t{}t\{}\n".format(item, ",".join(l[biosample]["isolation_country"]), ",".join(l[biosample]["collection_year"]), ",".join(l[biosample]["tag"])))
                 counter_ok=counter_ok+1
             else:
-                print(l[item])
+                print("{}:".format(item),l[item])
                 outf2.write("{}\t{}\t{}\t{}\n".format(item, ",".join(l[biosample]["isolation_country"]), ",".join(l[biosample]["collection_year"]), ",".join(l[biosample]["tag"])))
                 counter_collisions=counter_collisions+1
 
