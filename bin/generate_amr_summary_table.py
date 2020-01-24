@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 import csv
+import glob
 from collections import *
 
 def recursive_defaultdict():
@@ -101,3 +102,8 @@ def generate_summary_from_res_remove_collisions(res_files: list,out_file: str) -
             outf.write("\t".join(entry)+"\n")
     print("[INFO] I generated the report! ({})".format(out_file))
     return()
+
+
+list_res_files=glob.glob("resistance_data/summary_tables/*.res")
+generate_summary_from_res_remove_collisions(list_res_files , "./resistance_data/summary_tables/resistance_summary.txt")
+
