@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+import sys
+sys.path.insert(0, "./")
 import pandas as pd
 from bin import convert_to_biosample
 from progress.bar import IncrementalBar
@@ -10,7 +12,8 @@ df = pd.read_csv("resistance_data/sources/coll_nat_gen_2018/coll_suppl_material.
 # I standardize the names of the antibiotics
 cols = df.columns.tolist()
 ## I just ned to standardise the pas
-cols[11] = "PARA_AMINOSALISYLIC_ACID"
+cols[11] = "ETHIONAMIDE"
+cols[11] = "PARA_AMINOSALICYLIC_ACID"
 df.columns = cols
 
 # I convert the run ids to biosamples
