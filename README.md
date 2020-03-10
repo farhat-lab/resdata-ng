@@ -61,7 +61,7 @@ BioSample  antibiotic  media  concentration_tested  [S|R]  tag
 - Depending if the data source provides metadata or resistance data:
   - metadata: add a script (should be placed inside the directory `bin/`) to generate a `.geo_sampling` file (see above for the details about the format) inside the `./resistance_data/sources/<source_name>` directory.
   - resistance data: add a script (should be placed inside the directory `bin/`) to generate a `.res`, a `.mic`  files (see above for the details about the format)
-- Write a new sub
+- Write a new section of the documentation (see examples below)
 -  run the scripts that generate the final tables for the metadata and resistance data:
 
 ```
@@ -83,9 +83,12 @@ BioSample  antibiotic  media  concentration_tested  [S|R]  tag
 | NCBI | ○ | ○ | available? |
 | Patric| ○ | ○ | ○ |
 | ReSeqTB | ○ | - | pending |
-| cryptic_nejom_2018 | ○ | pending | pending |
+| cryptic_nejom_2018 |        ○        |      pending      |     pending     |
+| coll_nat_gen_2018 | ○ | pending | pending |
+| hicks_nat_micro_2018 | ○ | pending | ○ |
+| wollenberg_j_clin_microb_2017 | ○ | pending | ○ |
 
-last update: 2019-11-21 -- Luca Freschi
+last update: 2020-03-10 -- Luca Freschi
 
 ## Current data sources
 
@@ -107,6 +110,22 @@ Then we run a python script to parse the metadata and get the geo/sampling metad
 
 ```
 ./bin/analyze_data_ncbi.py > metadata/sources/ncbi/log_ncbi.txt 2>&1
+```
+
+### Coll Nat Gen 2018 (Resistance data)
+
+We are referring to this [paper](https://www.nature.com/articles/s41588-017-0029-0). I just have to run a script:
+
+```
+python3 ./bin/analyze_data_coll_nat_gen_2018.py
+```
+
+### Hicks Nat Micro 2018 (Resistance data)
+
+We are referring to this [paper](https://www.nature.com/articles/s41564-018-0218-3). I just have to run a script:
+
+```
+python3 ./bin/analyze_data_hicks_nat_micro_2018.py
 ```
 
 ### Patric (resistance data, metadata)
@@ -159,6 +178,26 @@ The data are available on "resistance_data/sources/reseqtb/msf.csv".
 ### Cryptic_nejom_2018 (metadata, resistance data)
 
 This is the original paper ("Prediction of Susceptibility to First-Line Tuberculosis Drugs by DNA Sequencing", N Engl J Med 2018;  379:1403-1415, doi:  10.1056/NEJMoa1800474). In the supplementary material there is a table with geographic location data and resistance data.
+
+
+
+### Wollenberg J Clin Microbiol 2017
+
+"Wollenberg, K. R. et al. Whole-Genome Sequencing of Mycobacterium tuberculosis Provides Insight into the Evolution and Genetic Composition of Drug-Resistant Tuberculosis in Belarus. J. Clin. Microbiol. 55, 457–469 (2017)". The supplementary material contains a table with binary resistance data linked to isolate names, and another suppl. table with isolate names linked to NCBI accessions. The source table in `resistance_data/sources/` was hand-curated from these two suppl. tables. 
+
+```
+python3 ./bin/analyze_data_wollenberg_j_clin_microb_2017.py
+```
+
+
+
+### Internal isolates 
+
+ongoing 
+​
+### Already curated isolates without source data  
+
+ongoing
 
 ## Changelog
 

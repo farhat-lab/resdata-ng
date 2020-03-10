@@ -33,6 +33,7 @@ if "genome.biosample_accession" not in tab.columns:
     tab["genome.biosample_accession"]=list_of_biosamples
 # I add the "patric" tag to the table
 tab["tag"]=["patric"]*tab.shape[0]
+
 # I just want the entries that have a biosample
 tab=tab.loc[tab["genome.biosample_accession"] != ""]
 # I just want the lab results
