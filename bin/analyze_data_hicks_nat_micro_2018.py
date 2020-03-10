@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+import sys
+sys.path.insert(0, "./")
 import pandas as pd
 from bin import convert_to_biosample
 from progress.bar import IncrementalBar
@@ -19,6 +21,6 @@ with open("resistance_data/summary_tables/hicks_nat_micro_2018.res", "w") as out
     for idx, row in df.iterrows(): 
         for antb in list_of_antibiotics:
             res_status = row[antb]
-            outf.write("\t".join([row[0], antb, res_status, "HICKS_NAT_MICRO_2018"]) + "\n")
+            outf.write("\t".join([row[0], antb.upper(), res_status, "HICKS_NAT_MICRO_2018"]) + "\n")
 
 
