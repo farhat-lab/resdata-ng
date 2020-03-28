@@ -1,8 +1,6 @@
-# Resdata 2
+# Resdata-NG
 
-This is the version 2 of the Farhat lab repository for MTB antibiotic resistance data and isolate metadata. To access the version 1 of the database, please click [here](https://github.com/farhat-lab/resdata).
-
-
+This is the Farhat lab repository for MTB antibiotic resistance data and isolate metadata. To access the version 1 of the database, please click [here](https://github.com/farhat-lab/resdata).
 
 ## Design
 
@@ -80,13 +78,13 @@ BioSample  antibiotic  media  concentration_tested  [S|R]  tag
 
 | Source | downloaded data | geo/sampling data | resistance data |
 | ---- | :-----------: | :----------: | :--: |
-| NCBI | ○ | ○ | available? |
-| Patric| ○ | ○ | ○ |
-| ReSeqTB | ○ | - | pending |
-| cryptic_nejom_2018 |        ○        |      pending      |     pending     |
-| coll_nat_gen_2018 | ○ | pending | pending |
-| hicks_nat_micro_2018 | ○ | pending | ○ |
-| wollenberg_j_clin_microb_2017 | ○ | pending | ○ |
+| NCBI | ● | ● |        -        |
+| Patric| ● | ● | ● |
+| ReSeqTB | ● | - | partial |
+| cryptic_nejom_2018 |        ●        |      pending      |     partial     |
+| coll_nat_gen_2018 | ● | pending | ● |
+| hicks_nat_micro_2018 | ● | pending | ● |
+| wollenberg_j_clin_microb_2017 | ● | pending | ● |
 
 last update: 2020-03-10 -- Luca Freschi
 
@@ -175,9 +173,35 @@ unzip fullExportDb-1254-External-CSV.zip
 
 The data are available on "resistance_data/sources/reseqtb/msf.csv". 
 
+Here is the command to parse the data:
+
+```
+python3 ./analyze_data_reseqtb.py
+```
+
+
+
 ### Cryptic_nejom_2018 (metadata, resistance data)
 
-This is the original paper ("Prediction of Susceptibility to First-Line Tuberculosis Drugs by DNA Sequencing", N Engl J Med 2018;  379:1403-1415, doi:  10.1056/NEJMoa1800474). In the supplementary material there is a table with geographic location data and resistance data.
+This is the original paper:
+
+- Prediction of Susceptibility to First-Line Tuberculosis Drugs by DNA Sequencing, N Engl J Med 2018;  379:1403-1415, doi:  10.1056/NEJMoa1800474). 
+
+In the supplementary material there is a table with geographic location data and resistance data. Here is the procedure to analyze the data:
+
+1. We convert the `PDF` to text. Then we filter out some unwanted rows (those that do not contain any information or that have information on species other than _M. tuberculosis_):
+
+```
+cd metadata/sources/cryptic_nejom_2018/
+pdftotext -layout -f 10 -l 95 nejmoa1800474_appendix.pdf prova.txt
+cat prova.txt|grep -v "^ "|grep -v "^$" | grep -v "orygis" | grep -v "bovis" | grep -v "caprae" |grep -v "microti"|grep -v "BCG" > spaghetti.txt
+```
+
+2. now we can parse the `.txt` file:
+
+```
+python3 ./bin/analyze_data_nejom_cryptic_2018.py
+```
 
 
 
@@ -198,6 +222,37 @@ ongoing
 ### Already curated isolates without source data  
 
 ongoing
+
+
+
+## Collisions
+At the moment there are 875 collisions listed on: `./resistance_data/summary_tables/collisions_summary.txt`
+
+### Examples
+
+There are inconsistencies between `RESEQTB` and `NEJOM_CRYPTIC_2018` (< 200 / estimated):
+
+```
+cat ./resistance_data/summary_tables/*.res |tr "\t" " "|grep  "SAMEA1015939 ETHAMBUTOL"
+SAMEA1015939 ETHAMBUTOL S NEJOM_CRYPTIC_2018
+SAMEA1015939 ETHAMBUTOL S PATRIC
+SAMEA1015939 ETHAMBUTOL S PATRIC
+SAMEA1015939 ETHAMBUTOL R RESEQTB
+```
+
+Analysis: 
+
+```
+IS-1017 / ETHAMBUTOL / R / ERR067767. Correponds to BioSample: SAMEA1015939; SRA: ERS050970. Includes ERR067767.
+```
+
+There are also inconsistencies between the same study:
+
+```
+cat ./resistance_data/summary_tables/*.res |tr "\t" " "|grep  "SAMEA3558109 RIFAMPICIN"
+SAMEA3558109 RIFAMPICIN S COLL_NAT_GEN_2018
+SAMEA3558109 RIFAMPICIN R COLL_NAT_GEN_2018
+```
 
 ## Changelog
 
