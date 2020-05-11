@@ -85,6 +85,7 @@ BioSample  antibiotic  media  concentration_tested  [S|R]  tag
 | coll_nat_gen_2018 | ● | pending | ● |
 | hicks_nat_micro_2018 | ● | pending | ● |
 | wollenberg_j_clin_microb_2017 | ● | pending | ● |
+|  |  | pending |  |
 
 last update: 2020-03-10 -- Luca Freschi
 
