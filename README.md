@@ -85,9 +85,13 @@ BioSample  antibiotic  media  concentration_tested  [S|R]  tag
 | coll_nat_gen_2018 | ● | pending | ● |
 | hicks_nat_micro_2018 | ● | pending | ● |
 | wollenberg_j_clin_microb_2017 | ● | pending | ● |
-|  |  | pending |  |
+| dheda_LID_2017 | ● | pending | ● |
 
 last update: 2020-03-10 -- Luca Freschi
+last update: 2020-05-11 -- Luca Freschi
+last update: 2020-05-11 -- Matthias Groeschel
+
+
 
 ## Current data sources
 
@@ -126,6 +130,15 @@ We are referring to this [paper](https://www.nature.com/articles/s41564-018-0218
 ```
 python3 ./bin/analyze_data_hicks_nat_micro_2018.py
 ```
+
+### Dheda Lancet ID 2017 (Resistance Data)
+
+We are reffering to this [paper](https://www.ncbi.nlm.nih.gov/pubmed/28109869). I just have to run a script:
+
+```
+python 3 ./bin/analyze_data_dheda_2017.py
+```
+
 
 ### Patric (resistance data, metadata)
 
