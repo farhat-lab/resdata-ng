@@ -85,9 +85,9 @@ BioSample  antibiotic  media  concentration_tested  [S|R]  tag
 | coll_nat_gen_2018 | ● | pending | ● |
 | hicks_nat_micro_2018 | ● | pending | ● |
 | wollenberg_j_clin_microb_2017 | ● | pending | ● |
-|  |  | pending |  |
+| farhat_lab_pools_cetr_tdr | ● | ● | ● |
 
-last update: 2020-03-10 -- Luca Freschi
+last update: 2020-05-12 -- Luca Freschi
 
 ## Current data sources
 
@@ -208,7 +208,7 @@ python3 ./bin/analyze_data_nejom_cryptic_2018.py
 
 ### Wollenberg J Clin Microbiol 2017
 
-"Wollenberg, K. R. et al. Whole-Genome Sequencing of Mycobacterium tuberculosis Provides Insight into the Evolution and Genetic Composition of Drug-Resistant Tuberculosis in Belarus. J. Clin. Microbiol. 55, 457–469 (2017)". The supplementary material contains a table with binary resistance data linked to isolate names, and another suppl. table with isolate names linked to NCBI accessions. The source table in `resistance_data/sources/` was hand-curated from these two suppl. tables. 
+"Wollenberg, K. R. et al. Whole-Genome Sequencing of _Mycobacterium tuberculosis_ Provides Insight into the Evolution and Genetic Composition of Drug-Resistant Tuberculosis in Belarus. J. Clin. Microbiol. 55, 457–469 (2017)". The supplementary material contains a table with binary resistance data linked to isolate names, and another suppl. table with isolate names linked to NCBI accessions. The source table in `resistance_data/sources/` was hand-curated from these two suppl. tables. 
 
 ```
 python3 ./bin/analyze_data_wollenberg_j_clin_microb_2017.py
@@ -216,10 +216,22 @@ python3 ./bin/analyze_data_wollenberg_j_clin_microb_2017.py
 
 
 
-### Internal isolates 
+### Farhat lab (pools, cetr, tdr)
 
-ongoing 
-​
+- The resistance and `.geo_sampling` data were extracted using the following script:
+
+```
+./bin/analyze_data_farhat_lab_pools_cetr_tdr.py 
+[INFO] Total number of entries: 16288
+[INFO] 2338 entries were discarded (14.4%)
+* no_media_method: 130
+* conc_tested_not_allows_decision: 2208
+* new_regex_needed: 0
+[INFO] writing down the .geo_sampling data
+```
+
+
+
 ### Already curated isolates without source data  
 
 ongoing
