@@ -86,7 +86,7 @@ with open("resistance_data/summary_tables/farhat_lab_pools_cetr_tdr.mic","w") as
                 entry["method"]="indirect proportion method"
                 tag="FARHAT_LAB:tdr"
             entry["tag"]=tag
-            outf.write("\t".join([entry["xref"], entry["antb"], entry["mic_summary"], 
+            outf.write("\t".join([entry["xref"], entry["antb"], entry["mic_summary"],
 entry["conc_units"], entry["res_class"], entry["method"], entry["media"], entry["tag"]]) + "\n")
 
 
@@ -238,3 +238,37 @@ print("[INFO] {} entries were discarded ({:.1f}%)".format(count_discarded,count_
 for reason in reasons_discarded:
     print("* {}: {}".format(reason,reasons_discarded[reason]))
 
+# associations source lab > tag
+dict_tags={
+"SES": "cetr",
+"RIVM": "pools",
+"MSLI": "pools"
+}
+
+# dict to correct the names of the countries
+dict_countries={
+"Abkhazia" : "Georgia",
+"Brasil": "Brazil",
+"Centr_Afr_Rep": "Central African Republic",
+"Kazakstan": "Kazakhstan",
+"Marocco": "Morocco",
+"RD_Congo":"DR Congo",
+"South_Africa": "South Africa",
+"South_Korea": "South Korea"
+}
+
+# extracting the geographic location data
+print("[INFO] writing down the .geo_sampling data")
+with open("metadata/sources/farhat_lab_pools_cetr_tdr/farhat_lab_pools_cetr_tdr.geo_sampling","w") as outf:
+    outf.write("\t".join(["BioSample", "isolation_country",  "collection_year", "tag"]) + "\n")
+    csv_data = csv.DictReader(open("resistance_data/sources/farhat_lab_pools_cetr_tdr/resistance_data_farhat_lab_pools_cetr_tdr.tsv","r"),delimiter="\t")
+    for row in csv_data:
+        if row["Source Lab"] in dict_tags:
+            tag = dict_tags[row["Source Lab"]]
+        else:
+            tag="tdr"
+        if row["Country of Isolation"] in dict_countries:
+            isol_country = dict_countries[row["Country of Isolation"]]
+        else:
+            isol_country = row["Country of Isolation"]
+        outf.write("\t".join([row["Id_rollingDB"], isol_country , "", "farhat_lab:" + tag]) + "\n")
