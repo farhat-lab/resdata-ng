@@ -86,9 +86,10 @@ BioSample  antibiotic  media  concentration_tested  [S|R]  tag
 | hicks_nat_micro_2018 | ● | pending | ● |
 | wollenberg_j_clin_microb_2017 | ● | pending | ● |
 | farhat_lab_pools_cetr_tdr | ● | ● | ● |
-| dheda_LID_2017 | ● | pending | ● |
+| dheda_LRM_2017 | ● | pending | ● |
+| zignol_LID_2018 | ● | pending | ● |
 
-last update: 2020-05-12 -- Luca Freschi
+last update: 2020-05-13 -- Matthias Groeschel
 
 ## Current data sources
 
@@ -112,7 +113,7 @@ Then we run a python script to parse the metadata and get the geo/sampling metad
 ./bin/analyze_data_ncbi.py > metadata/sources/ncbi/log_ncbi.txt 2>&1
 ```
 
-### Coll Nat Gen 2018 (Resistance data)
+### Coll Nat Gen 2018 (resistance data)
 
 We are referring to this [paper](https://www.nature.com/articles/s41588-017-0029-0). I just have to run a script:
 
@@ -120,7 +121,7 @@ We are referring to this [paper](https://www.nature.com/articles/s41588-017-0029
 python3 ./bin/analyze_data_coll_nat_gen_2018.py
 ```
 
-### Hicks Nat Micro 2018 (Resistance data)
+### Hicks Nat Micro 2018 (resistance data)
 
 We are referring to this [paper](https://www.nature.com/articles/s41564-018-0218-3). I just have to run a script:
 
@@ -128,14 +129,21 @@ We are referring to this [paper](https://www.nature.com/articles/s41564-018-0218
 python3 ./bin/analyze_data_hicks_nat_micro_2018.py
 ```
 
-### Dheda Lancet ID 2017 (Resistance Data)
+### Dheda Lancet RM 2017 (resistance Data)
 
 We are reffering to this [paper](https://www.ncbi.nlm.nih.gov/pubmed/28109869). I just have to run a script:
 
 ```
-python 3 ./bin/analyze_data_dheda_2017.py
+python3 ./bin/analyze_data_dheda_2017.py
 ```
 
+### Zignol Lancet ID 2018 (resistance data, metadata)
+
+We are reffering to this [paper](https://www.ncbi.nlm.nih.gov/pubmed/29574065/?utm_source=gquery&utm_medium=referral&utm_campaign=CitationSensor). I just have to run a script:
+
+```
+python3 ./bin/analyze_zignol_LID_2018.py
+```
 
 ### Patric (resistance data, metadata)
 

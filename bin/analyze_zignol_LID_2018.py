@@ -3,10 +3,9 @@
 import sys
 sys.path.insert(0, "./")
 import pandas as pd
-from progress.bar import IncrementalBar
 
 # load the data frame
-df = pd.read_csv("resistance_data/sources/who/who_resdata_combinedIDs.tab.txt", sep = '\t')
+df = pd.read_csv("resistance_data/sources/zignol_LID_2018/zignol_resdata_combined.tab", sep = '\t')
 
 #select only columns with Accession, Antibiotics, and geographic origin
 df = df[['BioSample','Country', 'rif_pheno', 'inh',
@@ -27,7 +26,7 @@ df = df[~df['country'].str.contains("Ukraine")]
 df = df[~df['country'].str.contains("Azerbaijan")]
 
 #write it to a new *res file
-with open("resistance_data/summary_tables/WHO_dataset.res", "w") as outf:
+with open("resistance_data/summary_tables/zignol_LID_2018.res", "w") as outf:
     for idx, row in df.iterrows(): 
         for antb in list_of_antibiotics:
             value = row[antb]
@@ -38,4 +37,4 @@ with open("resistance_data/summary_tables/WHO_dataset.res", "w") as outf:
                 res_status = "S"
             elif value ==1:
                 res_status = "R"
-            outf.write("\t".join([row[0], antb, res_status, "WHO_dataset"]) + "\n")
+            outf.write("\t".join([row[0], antb, res_status, "ZIGNOL_2018"]) + "\n")

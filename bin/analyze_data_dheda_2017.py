@@ -7,7 +7,7 @@ from metatools_ncbi import convert_to_biosample
 from progress.bar import IncrementalBar
 
 # load the data frame
-df = pd.read_csv("resistance_data/sources/Dheda_LID_2017/Dheda-2017_phenotype_data.csv")
+df = pd.read_csv("resistance_data/sources/Dheda_Lancet_RM_2017/Dheda-2017_phenotype_data.csv")
 
 #select only columns with Accession, Antibiotics, and geographic origin
 df = df[['id', 'geographic_source', 'rifampicin',
@@ -45,4 +45,4 @@ with open("resistance_data/summary_tables/dheda_LID_2017.res", "w") as outf:
                 res_status = "S"
             elif value ==1:
                 res_status = "R"
-            outf.write("\t".join([row[0], antb, res_status, "DHEDA_LID_2017"]) + "\n")
+            outf.write("\t".join([row[0], antb, res_status, "DHEDA_Lancet_RM_2017"]) + "\n")
