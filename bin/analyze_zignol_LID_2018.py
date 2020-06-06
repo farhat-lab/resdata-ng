@@ -38,3 +38,16 @@ with open("resistance_data/summary_tables/zignol_LID_2018.res", "w") as outf:
             elif value ==1:
                 res_status = "R"
             outf.write("\t".join([row[0], antb, res_status, "ZIGNOL_2018"]) + "\n")
+
+
+# Piece to get the geographic location data
+
+# load the data frame
+df_geo = pd.read_csv("resistance_data/sources/zignol_LID_2018/zignol_resdata_combined.tab", sep = '\t')
+df_geo["Country"]=df_geo["Country"].replace("SouthAfrica","South Africa")
+df_geo=df_geo.rename(columns={'Country': 'isolation_country'})
+df_geo["collection_year"]=""
+df_geo["tag"]="zignol_LID_2018"
+
+df_geo.to_csv("./metadata/sources/zignol_LID_2018/zignol_LID_2018.geo_sampling", columns=["BioSample", "isolation_country", "collection_year","tag"], index=False, sep="\t")
+

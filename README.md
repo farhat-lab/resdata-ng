@@ -87,9 +87,9 @@ BioSample  antibiotic  media  concentration_tested  [S|R]  tag
 | wollenberg_j_clin_microb_2017 | ● | pending | ● |
 | farhat_lab_pools_cetr_tdr | ● | ● | ● |
 | dheda_LRM_2017 | ● | pending | ● |
-| zignol_LID_2018 | ● | pending | ● |
+| zignol_LID_2018 | ● | ● | ● |
 
-last update: 2020-05-13 -- Matthias Groeschel
+last update: 2020-06-05 -- Luca Freschi
 
 ## Current data sources
 
