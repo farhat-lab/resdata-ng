@@ -14,7 +14,7 @@ df = df[['BioSample','Country', 'rif_pheno', 'inh',
 
 #rename the columns 
 df.rename(columns={'BioSample':'Accession','Country':'country','rif_pheno':'RIFAMPICIN',
-                  'inh':'ISONIAZID','ofx2_final':'OXIFLOXACIN','mfx2':'MOXIFLOXACIN',
+                  'inh':'ISONIAZID','ofx2_final':'OFLOXACIN','mfx2':'MOXIFLOXACIN',
                   'lfx15':'LEVOFLOXACIN','gfx2':'GATIFLOXACIN','kan':'KANAMYCIN',
                   'kan':'KANAMYCIN','amk':'AMIKACIN','cap':'CAPREOMYCIN','pza':'PYRAZINAMIDE'}, inplace = True)
 
