@@ -9,7 +9,7 @@ df = pd.read_csv("resistance_data/sources/wollenberg_j_clin_microb_2017/wollenbe
 # I standardize the names of the antibiotics
 cols = df.columns.tolist()
 cols[2:] = ["ETHAMBUTOL","ISONIAZID","RIFAMPICIN","RIFABUTIN","PYRAZINAMIDE",
-"AMIKACIN","KANAMYCIN","CAPREOMYCIN","CYCLOSERINE","ETHIONAMIDE","OXIFLOXACIN",
+"AMIKACIN","KANAMYCIN","CAPREOMYCIN","CYCLOSERINE","ETHIONAMIDE","OFLOXACIN",
 "PARA_AMINOSALICYLIC_ACID","STREPTOMYCIN"]
 df.columns = cols
 
