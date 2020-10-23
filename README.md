@@ -88,8 +88,9 @@ BioSample  antibiotic  media  concentration_tested  [S|R]  tag
 | farhat_lab_pools_cetr_tdr | ● | ● | ● |
 | dheda_LRM_2017 | ● | pending | ● |
 | zignol_LID_2018 | ● | ● | ● |
+| phelan_sci_rep_2019 | ● | ● | ● |
 
-last update: 2020-06-05 -- Luca Freschi
+last update: 2020-10-23 -- Luca Freschi
 
 ## Current data sources
 
@@ -195,7 +196,18 @@ The data are available on "resistance_data/sources/reseqtb/msf.csv".
 Here is the command to parse the data:
 
 ```
-python3 ./analyze_data_reseqtb.py
+python3 ./bin/analyze_data_reseqtb.py
+```
+
+
+
+### Phelan_sci_rep_2019
+Original paper: "*Mycobacterium tuberculosis* whole genome sequencing provides insights into the Manila strain and drug-resistance mutations in the Philippines". Downloaded Suppl. Data 1 (41598_2019_45566_MOESM2_ESM.csv). Authors shared phenotypic data with us (Phil WGS database_180 DRS 2 isolates.xlsx) so I used it instead of the Suppl. Data 1. 
+
+Here is the command to generate the `.geo_sampling` and `.res` files:
+
+```
+python3 ./analyze_data_phelan_sci_rep_2019.py
 ```
 
 

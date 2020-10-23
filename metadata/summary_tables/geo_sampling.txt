@@ -20084,6 +20084,186 @@ SAMN08913351	South Africa		zignol_LID_2018,ncbi
 SAMN08913352	South Africa		zignol_LID_2018,ncbi
 SAMN08913353	South Africa		zignol_LID_2018,ncbi
 SAMN08913354	South Africa		zignol_LID_2018,ncbi
+SAMEA5542018	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542019	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542020	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542021	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542022	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542023	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542024	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542025	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542026	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542027	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542028	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542029	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542030	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542031	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542032	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542033	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542034	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542035	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542036	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542037	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542038	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542039	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542040	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542041	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542042	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542043	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542044	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542045	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542046	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542047	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542048	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542049	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542050	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542051	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542052	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542053	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542054	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542055	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542056	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542057	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542058	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542059	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542060	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542061	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542062	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542063	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542064	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542065	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542066	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542067	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542068	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542069	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542070	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542071	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542072	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542073	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542074	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542075	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542076	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542077	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542078	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542079	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542080	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542081	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542082	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542083	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542084	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542085	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542086	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542087	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542088	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542089	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542090	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542091	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542092	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542093	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542094	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542095	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542096	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542097	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542098	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542099	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542100	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542101	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542102	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542103	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542104	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542105	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542106	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542107	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542108	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542109	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542110	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542111	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542112	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542113	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542114	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542115	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542116	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542117	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542118	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542119	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542120	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542121	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542122	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542123	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542124	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542125	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542126	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542127	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542128	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542129	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542130	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542131	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542132	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542133	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542134	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542135	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542136	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542137	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542138	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542139	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542140	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542141	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542142	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542143	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542144	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542145	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542146	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542147	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542148	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542149	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542150	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542151	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542152	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542153	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542154	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542155	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542156	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542157	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542158	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542159	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542160	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542161	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542162	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542163	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542164	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542165	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542166	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542167	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542169	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542170	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542171	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542172	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542173	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542174	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542175	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542176	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542177	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542178	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542179	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542180	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542181	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542182	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542183	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542184	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542185	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542186	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542187	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542188	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542189	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542190	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542191	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542192	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542193	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542194	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542195	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542196	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542197	Philippines		phelan_sci_rep_2019,ncbi
+SAMEA5542198	Philippines		phelan_sci_rep_2019,ncbi
 00R0223	Peru		farhat_lab:pools
 00R0312	Peru		farhat_lab:pools
 00R0435	Peru		farhat_lab:pools
@@ -21615,7 +21795,6 @@ SAMN08376360	Indonesia	2012	ncbi
 SAMN08215290	Canada	2011	ncbi
 SAMN06472855	New Zealand	2012	ncbi
 SAMN04276808	DR Congo		ncbi
-SAMEA5542043			ncbi
 SAMEA1688539	Malawi	2010	ncbi
 SAMN07213071	Canada	1992	ncbi
 SAMEA3671363			ncbi
@@ -21858,7 +22037,6 @@ SAMEA2342372			ncbi
 SAMEA95499418	South Africa	2011	ncbi
 SAMN04521978	South Africa		ncbi
 SAMN05172765	Moldova	2013	ncbi
-SAMEA5542188			ncbi
 SAMEA1707184	Russia	2009	ncbi
 SAMN05575773	South Africa	2013	ncbi
 SAMEA3231564	Argentina	2013	ncbi
@@ -22025,7 +22203,6 @@ SAMN03246178	China	2007	ncbi
 SAMN06251245	Nigeria		ncbi
 SAMEA1300446			ncbi
 SAMEA104447368	Denmark	2009	ncbi
-SAMEA5542139			ncbi
 SAMN13194188	DR Congo	2018	ncbi
 SAMEA104027349	Denmark	2006	ncbi
 SAMEA5570044			ncbi
@@ -22298,7 +22475,6 @@ SAMEA1569111	Malawi	2001	ncbi
 SAMN13194239	DR Congo	2018	ncbi
 SAMEA1405905			ncbi
 SAMN09651760	Georgia	2011	ncbi
-SAMEA5542180			ncbi
 SAMEA1530928	Malawi	1998	ncbi
 SAMEA1300360			ncbi
 SAMN09867651	South Africa	2016	ncbi
@@ -22424,7 +22600,6 @@ SAMN05575875	South Africa	2013	ncbi
 SAMEA104362328			ncbi
 SAMEA2783271			ncbi
 SAMN07251271	Thailand	2005	ncbi
-SAMEA5542152			ncbi
 SAMEA3491657			ncbi
 SAMN09101353	United Kingdom	2017	ncbi
 SAMN08215152	Canada	2009	ncbi
@@ -22501,7 +22676,6 @@ SAMN09914651	Moldova	2014	ncbi
 SAMEA5076148			ncbi
 SAMEA104447682	Denmark	2014	ncbi
 SAMEA1300355			ncbi
-SAMEA5542181			ncbi
 SAMN08626022	China	2007	ncbi
 SAMEA5228889			ncbi
 SAMN09101614	United Kingdom	2016	ncbi
@@ -22554,7 +22728,6 @@ SAMD00029462	Japan	2013	ncbi
 SAMEA4473397			ncbi
 SAMEA1406007			ncbi
 SAMEA1569332	Malawi	2000	ncbi
-SAMEA5542033			ncbi
 SAMN13195298	DR Congo	2018	ncbi
 SAMEA2152966			ncbi
 SAMN09100341	United Kingdom	2013	ncbi
@@ -22628,7 +22801,6 @@ SAMEA104027402	Denmark	2010	ncbi
 SAMN05575738	South Africa	2013	ncbi
 SAMN08215011	Canada	2008	ncbi
 SAMEA5562388			ncbi
-SAMEA5542031			ncbi
 SAMN04396881	India	2009	ncbi
 SAMN13194708	DR Congo	2018	ncbi
 SAMN06845990	Thailand	2013	ncbi
@@ -23215,7 +23387,6 @@ SAMEA104357433	China	2007	ncbi
 SAMEA1465940	Malawi	2008	ncbi
 SAMN05575360	South Africa	2013	ncbi
 SAMEA3558575			ncbi
-SAMEA5542172			ncbi
 SAMN04276796	South Africa		ncbi
 SAMEA2162477			ncbi
 SAMN07658173	United Kingdom	2016	ncbi
@@ -23472,7 +23643,6 @@ SAMN04276676	Tanzania		ncbi
 SAMEA1530889	Malawi	1997	ncbi
 SAMN04633270	Moldova	2015	ncbi
 SAMN05575473	South Africa	2013	ncbi
-SAMEA5542133			ncbi
 SAMEA5561901			ncbi
 SAMEA1019181	United Kingdom	2006	ncbi
 SAMEA1929766			ncbi
@@ -23508,7 +23678,6 @@ SAMEA3558604			ncbi
 SAMN07766476	Canada	2014	ncbi
 SAMN06091776	Vietnam	2011	ncbi
 SAMEA1707429			ncbi
-SAMEA5542034			ncbi
 SAMEA104685044			ncbi
 SAMN05575122	South Africa	2013	ncbi
 SAMEA2267067			ncbi
@@ -23851,7 +24020,6 @@ SAMN13195469	DR Congo	2018	ncbi
 SAMN00621429			ncbi
 SAMN09101339	United Kingdom	2017	ncbi
 SAMN06092499	Vietnam	2010	ncbi
-SAMEA5542123			ncbi
 SAMEA2783615			ncbi
 SAMEA1574087			ncbi
 SAMEA1569175	Malawi	2001	ncbi
@@ -23872,7 +24040,6 @@ SAMEA3558671			ncbi
 SAMN06052270	Uganda	2000	ncbi
 SAMN09914729	Moldova	2014	ncbi
 SAMN08851352	United States	2018	ncbi
-SAMEA5542132			ncbi
 SAMN09100596	United Kingdom	2016	ncbi
 SAMN04407894	Canada	2003	ncbi
 SAMEA1877161			ncbi
@@ -24079,7 +24246,6 @@ SAMN12651005	Thailand		ncbi
 SAMN06092395	Vietnam	2010	ncbi
 SAMEA2040759			ncbi
 SAMN06091819	Vietnam	2011	ncbi
-SAMEA5542097			ncbi
 SAMEA2782925			ncbi
 SAMN12551249	China	2013	ncbi
 SAMEA3920994	China	2009	ncbi
@@ -24162,7 +24328,6 @@ SAMEA2266995			ncbi
 SAMN06251233	Nigeria		ncbi
 SAMN09102215	United Kingdom	2016	ncbi
 SAMEA2711046			ncbi
-SAMEA5542187			ncbi
 SAMEA5569852			ncbi
 SAMEA1707695			ncbi
 SAMN06221182	Moldova	2009	ncbi
@@ -24232,7 +24397,6 @@ SAMN03246615	China	2007	ncbi
 SAMEA2026338			ncbi
 SAMN13169464	Moldova	2018	ncbi
 SAMEA3558819			ncbi
-SAMEA5542192			ncbi
 SAMN04452449	United Kingdom	2015	ncbi
 SAMN06846042	Thailand	2007	ncbi
 SAMN06091958	Vietnam	2011	ncbi
@@ -24610,7 +24774,6 @@ SAMEA2028642			ncbi
 SAMN09651609	Switzerland		ncbi
 SAMEA961612	United Kingdom	2007	ncbi
 SAMN06920089	Papua New Guinea	2014	ncbi
-SAMEA5542163			ncbi
 SAMEA1886033			ncbi
 SAMN06221354	Philippines	2009	ncbi
 SAMN05576267	South Africa	2013	ncbi
@@ -24772,7 +24935,6 @@ SAMEA2161715			ncbi
 SAMEA1530905	Malawi	2000	ncbi
 SAMEA5330418	Mexico		ncbi
 SAMN00013075			ncbi
-SAMEA5542156			ncbi
 SAMN05575597	South Africa	2013	ncbi
 SAMEA1707767			ncbi
 SAMN12551355	China	2014	ncbi
@@ -25140,7 +25302,6 @@ SAMEA3715743			ncbi
 SAMN02671089	Canada	2012	ncbi
 SAMEA4501349	Nigeria	2012	ncbi
 SAMN07661286	Australia	2007	ncbi
-SAMEA5542084			ncbi
 SAMEA1019093	United Kingdom	2006	ncbi
 SAMN05576125	South Africa	2013	ncbi
 SAMN06055675	Vietnam	2009	ncbi
@@ -25266,7 +25427,6 @@ SAMEA5607347		2016	ncbi
 SAMEA2079260			ncbi
 SAMEA2177714			ncbi
 SAMN05576711	South Africa	2013	ncbi
-SAMEA5542104			ncbi
 SAMEA3512742			ncbi
 SAMEA104362110			ncbi
 SAMEA5282542			ncbi
@@ -25340,7 +25500,6 @@ SAMN06210011	Moldova	2012	ncbi
 SAMN12389271	Ethiopia		ncbi
 SAMEA104447440	Denmark	2010	ncbi
 SAMN06092072	Vietnam	2010	ncbi
-SAMEA5542080			ncbi
 SAMEA5562138			ncbi
 SAMEA5366580			ncbi
 SAMEA3672870	Australia		ncbi
@@ -25418,7 +25577,6 @@ SAMEA2783030			ncbi
 SAMN05575954	South Africa	2013	ncbi
 SAMN12551540	China	2016	ncbi
 SAMEA4744388	Brazil	2005	ncbi
-SAMEA5542103			ncbi
 SAMN03161662	Canada	1991	ncbi
 SAMEA1530831	Malawi	1999	ncbi
 SAMN06055836	Vietnam	2009	ncbi
@@ -25442,7 +25600,6 @@ SAMEA104447391	Denmark	2009	ncbi
 SAMN05577032	South Africa	2013	ncbi
 SAMEA5562178			ncbi
 SAMN09399478	Azerbaijan	2017	ncbi
-SAMEA5542090			ncbi
 SAMN03246353	China	2007	ncbi
 SAMN09099671	United Kingdom	2016	ncbi
 SAMN11456859	France	2008	ncbi
@@ -25464,7 +25621,6 @@ SAMN07251133	Thailand	2008	ncbi
 SAMN05576012	South Africa	2013	ncbi
 SAMN06849033	Romania	2015	ncbi
 SAMN07661306	Australia	2011	ncbi
-SAMEA5542177			ncbi
 SAMN06849047	Romania	2015	ncbi
 SAMEA3558837			ncbi
 SAMN06092221	Vietnam	2010	ncbi
@@ -25877,7 +26033,6 @@ SAMN03246495	China	2007	ncbi
 SAMEA1485334	Malawi	2004	ncbi
 SAMN12551362	China	2014	ncbi
 SAMN10448611	Vietnam	2015	ncbi
-SAMEA5542037			ncbi
 SAMN06845888	Bangladesh	2012	ncbi
 SAMEA2711049			ncbi
 SAMEA104447596	Denmark	2012	ncbi
@@ -25897,7 +26052,6 @@ SAMD00117902	Japan	2003	ncbi
 SAMEA1556810	Malawi	2008	ncbi
 SAMEA1707322			ncbi
 SAMEA104144177	China	2012	ncbi
-SAMEA5542173			ncbi
 SAMEA2342384			ncbi
 SAMEA5330353	Mexico		ncbi
 SAMN08143574	Azerbaijan	2016	ncbi
@@ -25970,7 +26124,6 @@ SAMN13194597	DR Congo	2018	ncbi
 SAMEA104243528			ncbi
 SAMN09867653	South Africa	2016	ncbi
 SAMEA1485249	Malawi	2003	ncbi
-SAMEA5542024			ncbi
 SAMN07236180	Thailand	2004	ncbi
 SAMN11265353			ncbi
 SAMN08376207	Indonesia	2014	ncbi
@@ -26398,7 +26551,6 @@ SAMN05575092	South Africa	2012	ncbi
 SAMEA1556595	Malawi	2007	ncbi
 SAMEA4152819			ncbi
 SAMN13194509	DR Congo	2018	ncbi
-SAMEA5542050			ncbi
 SAMN06092441	Vietnam	2010	ncbi
 SAMN09399511	Azerbaijan	2016	ncbi
 SAMEA1556824	Malawi	2007	ncbi
@@ -26576,11 +26728,9 @@ SAMN09100419	United Kingdom	2014	ncbi
 SAMEA5047377			ncbi
 SAMEA4241963			ncbi
 SAMEA5056357	Portugal	2014	ncbi
-SAMEA5542144			ncbi
 SAMN09101522	United Kingdom	2016	ncbi
 SAMN09756213	Moldova	2014	ncbi
 SAMN07331229	Australia	2013	ncbi
-SAMEA5542191			ncbi
 SAMEA2342449			ncbi
 SAMN06055834	Vietnam	2009	ncbi
 SAMEA2081440			ncbi
@@ -26608,7 +26758,6 @@ SAMN04452563	United Kingdom	2015	ncbi
 SAMN09756283	Moldova	2014	ncbi
 SAMEA1556863	Malawi	2004	ncbi
 SAMEA104447130	Denmark	2003	ncbi
-SAMEA5542116			ncbi
 SAMEA3401639			ncbi
 SAMN11489255	Japan		ncbi
 SAMEA5076095			ncbi
@@ -26684,7 +26833,6 @@ SAMN07344704	Djibouti		ncbi
 SAMEA1406096			ncbi
 SAMEA3281410	Argentina	2009	ncbi
 SAMN08626150	China	2007	ncbi
-SAMEA5542086			ncbi
 SAMN13051702	Kazakhstan	2017	ncbi
 SAMEA1530798	Malawi	1999	ncbi
 SAMEA5593840			ncbi
@@ -27563,7 +27711,6 @@ SAMN04452648	United Kingdom	2015	ncbi
 SAMEA1403714	Russia	2009	ncbi
 SAMEA3715483			ncbi
 SAMN05577117	South Africa	2013	ncbi
-SAMEA5542194			ncbi
 SAMN09503060			ncbi
 SAMN03246221	China	2007	ncbi
 SAMN05577112	South Africa	2013	ncbi
@@ -27957,7 +28104,6 @@ SAMEA5282438			ncbi
 SAMEA4041348			ncbi
 SAMEA5076104			ncbi
 SAMN10592338	Russia	2017	ncbi
-SAMEA5542100			ncbi
 SAMN00015341			ncbi
 SAMEA859370			ncbi
 SAMN07765859	Canada	2005	ncbi
@@ -28378,7 +28524,6 @@ SAMEA1406075			ncbi
 SAMD00117801	Japan	2012	ncbi
 SAMEA4041331			ncbi
 SAMN06845857	Bangladesh	2011	ncbi
-SAMEA5542092			ncbi
 SAMEA2072837			ncbi
 SAMN07766078	Canada	2008	ncbi
 SAMEA5228890			ncbi
@@ -29362,10 +29507,8 @@ SAMN08626318	China	2007	ncbi
 SAMN09867672	United Kingdom	2015	ncbi
 SAMEA4441601	South Africa	2010	ncbi
 SAMEA4798684	DR Congo	2006	ncbi
-SAMEA5542140			ncbi
 SAMEA1575895			ncbi
 SAMEA23768668	South Africa		ncbi
-SAMEA5542176			ncbi
 SAMEA23740168	Botswana		ncbi
 SAMEA1300371			ncbi
 SAMEA2342396			ncbi
@@ -29603,7 +29746,6 @@ SAMN06092262	Vietnam	2010	ncbi
 SAMN07603337	Australia	2012	ncbi
 SAMN08143538	Azerbaijan	2016	ncbi
 SAMN07344652	Djibouti		ncbi
-SAMEA5542120			ncbi
 SAMN09914641	Moldova	2014	ncbi
 SAMN07236485	Thailand	2007	ncbi
 SAMN09867660	South Africa	2016	ncbi
@@ -29999,7 +30141,6 @@ SAMN05172844	Moldova	2013	ncbi
 SAMN06845879	Bangladesh	2012	ncbi
 SAMEA1403897	Russia	2008	ncbi
 SAMN03246289	China	2007	ncbi
-SAMEA5542134			ncbi
 SAMEA3671464			ncbi
 SAMEA3921007	China	2009	ncbi
 SAMEA1061591			ncbi
@@ -30027,7 +30168,6 @@ SAMEA3671526			ncbi
 SAMEA2025856			ncbi
 SAMEA1569234	Malawi	2009	ncbi
 SAMN13169458	Moldova	2011	ncbi
-SAMEA5542136			ncbi
 SAMEA2161899			ncbi
 SAMN09102161	United Kingdom	2015	ncbi
 SAMEA1300260			ncbi
@@ -30347,7 +30487,6 @@ SAMN06055621	Vietnam	2009	ncbi
 SAMN13195505	DR Congo	2018	ncbi
 SAMEA4452724			ncbi
 SAMN09756208	Moldova	2014	ncbi
-SAMEA5542175			ncbi
 SAMEA5330344	Mexico		ncbi
 SAMN07766360	Canada	2013	ncbi
 SAMN09402720	Romania	2016	ncbi
@@ -30386,7 +30525,6 @@ SAMN09764023			ncbi
 SAMN05575415	South Africa	2013	ncbi
 SAMEA5056356	Portugal	2014	ncbi
 SAMEA1688667			ncbi
-SAMEA5542061			ncbi
 SAMEA3671401			ncbi
 SAMN09102236	United Kingdom	2016	ncbi
 SAMN05575394	South Africa	2013	ncbi
@@ -30669,7 +30807,6 @@ SAMN07213070	Canada	1992	ncbi
 SAMN08636999	Moldova	2013	ncbi
 SAMEA104221069			ncbi
 SAMEA104447585	Denmark	2012	ncbi
-SAMEA5542102			ncbi
 SAMEA104447437	Denmark	2010	ncbi
 SAMN13194915	DR Congo	2018	ncbi
 SAMEA1707894			ncbi
@@ -30997,7 +31134,6 @@ SAMN09756275	Moldova	2014	ncbi
 SAMN08619644	Botswana		ncbi
 SAMN03246243	China	2007	ncbi
 SAMEA104447316	Denmark	2008	ncbi
-SAMEA5542151			ncbi
 SAMN05577272	South Africa	2013	ncbi
 SAMN08637029	Moldova	2010	ncbi
 SAMEA104027330	Denmark	1996	ncbi
@@ -31019,7 +31155,6 @@ SAMN07658186	United Kingdom	2016	ncbi
 SAMN03580375	China	2011	ncbi
 SAMEA1556767	Malawi	2009	ncbi
 SAMEA1403651	Russia	2009	ncbi
-SAMEA5542166			ncbi
 SAMEA5626316			ncbi
 SAMEA3875805	Canada	2009	ncbi
 SAMEA3231749	Argentina	2013	ncbi
@@ -31139,7 +31274,6 @@ SAMN00621252			ncbi
 SAMEA1485233	Malawi	1997	ncbi
 SAMEA5562111			ncbi
 SAMN09100059	United Kingdom	2014	ncbi
-SAMEA5542117			ncbi
 SAMEA1485260	Malawi	2002	ncbi
 SAMN13194288	DR Congo	2018	ncbi
 SAMEA919895			ncbi
@@ -31561,7 +31695,6 @@ SAMEA2783387			ncbi
 SAMEA104447061	Denmark	2001	ncbi
 SAMN09756082	Moldova	2014	ncbi
 SAMN09566727	South Africa		ncbi
-SAMEA5542039			ncbi
 SAMEA104447269	Denmark	2007	ncbi
 SAMEA2783214			ncbi
 SAMEA104718904	Netherlands	2016	ncbi
@@ -31688,7 +31821,6 @@ SAMEA3374743			ncbi
 SAMN06473221	India	2014	ncbi
 SAMN06221180	Moldova	2010	ncbi
 SAMEA104357379	China	2007	ncbi
-SAMEA5542131			ncbi
 SAMEA104446890	Denmark	1994	ncbi
 SAMN13264524	Kazakhstan	2016	ncbi
 SAMN13194355	DR Congo	2018	ncbi
@@ -32033,7 +32165,6 @@ SAMEA1903108			ncbi
 SAMEA104708032	Brazil	2015	ncbi
 SAMN09867685	United Kingdom	2016	ncbi
 SAMEA1300196			ncbi
-SAMEA5542075			ncbi
 SAMEA4473398			ncbi
 SAMN07766452	Canada	2014	ncbi
 SAMEA1556592	Malawi	2007	ncbi
@@ -32057,7 +32188,6 @@ SAMN13194284	DR Congo	2018	ncbi
 SAMN05001065	Georgia	2014	ncbi
 SAMN09625687	United States	2009	ncbi
 SAMN07344495	Djibouti		ncbi
-SAMEA5542108			ncbi
 SAMN06209979	Azerbaijan	2015	ncbi
 SAMN09756081	Moldova	2014	ncbi
 SAMEA1556781	Malawi	2009	ncbi
@@ -32082,13 +32212,11 @@ SAMN00791434			ncbi
 SAMN13195377	DR Congo	2018	ncbi
 SAMN05576325	South Africa	2013	ncbi
 SAMN06209963	Azerbaijan	2015	ncbi
-SAMEA5542112			ncbi
 SAMN05575583	South Africa	2013	ncbi
 SAMN11053686	China	2017	ncbi
 SAMEA104718565	Netherlands	2016	ncbi
 SAMEA1885908			ncbi
 SAMEA3558498			ncbi
-SAMEA5542109			ncbi
 SAMN07344648	Djibouti		ncbi
 SAMEA104685060			ncbi
 SAMEA1886046			ncbi
@@ -32280,7 +32408,6 @@ SAMN13194141	DR Congo	2018	ncbi
 SAMEA5330385	Mexico		ncbi
 SAMEA5056382	Portugal	2016	ncbi
 SAMN07344496	Djibouti		ncbi
-SAMEA5542025			ncbi
 SAMN06091770	Vietnam	2011	ncbi
 SAMN08376374	Indonesia	2012	ncbi
 SAMEA1886068			ncbi
@@ -32426,7 +32553,6 @@ SAMN13195083	DR Congo	2018	ncbi
 SAMN09099861	United Kingdom	2016	ncbi
 SAMN12551461	China	2015	ncbi
 SAMEA5282441			ncbi
-SAMEA5542169			ncbi
 SAMN02911583	South Korea	2010	ncbi
 SAMEA2419085	Switzerland		ncbi
 SAMN13194309	DR Congo	2018	ncbi
@@ -32447,7 +32573,6 @@ SAMN08626374	China	2007	ncbi
 SAMN07251218	Thailand	2000	ncbi
 SAMN05575652	South Africa	2013	ncbi
 SAMN04522128	Peru		ncbi
-SAMEA5542094			ncbi
 SAMEA4774505			ncbi
 SAMN06055979	Vietnam	2009	ncbi
 SAMN10961327	China	2014	ncbi
@@ -32810,7 +32935,6 @@ SAMN05575263	South Africa	2013	ncbi
 SAMN05576878	South Africa	2013	ncbi
 SAMN08626350	China	2007	ncbi
 SAMEA1885941			ncbi
-SAMEA5542027			ncbi
 SAMN10462572			ncbi
 SAMEA3671260			ncbi
 SAMN08376195	Indonesia	2014	ncbi
@@ -32899,7 +33023,6 @@ SAMN11265346			ncbi
 SAMN06221417	South Africa	2009	ncbi
 SAMEA4774519			ncbi
 SAMN07956495	Russia	2011	ncbi
-SAMEA5542065			ncbi
 SAMEA2532503			ncbi
 SAMEA104153408	United Kingdom	2016	ncbi
 SAMN08383187	Portugal	2015	ncbi
@@ -33332,7 +33455,6 @@ SAMEA2142569			ncbi
 SAMEA104718550	Netherlands	2016	ncbi
 SAMN05577181	South Africa	2013	ncbi
 SAMEA2782928			ncbi
-SAMEA5542195			ncbi
 SAMN06055899	Vietnam	2009	ncbi
 SAMN09100576	United Kingdom	2015	ncbi
 SAMN04053665	Canada	2008	ncbi
@@ -33394,7 +33516,6 @@ SAMEA5561554			ncbi
 SAMN09099596	United Kingdom	2017	ncbi
 SAMEA961619	United Kingdom	2007	ncbi
 SAMEA104685011			ncbi
-SAMEA5542046			ncbi
 SAMEA5562312			ncbi
 SAMEA3986716	United Kingdom	2003	ncbi
 SAMN02671172	Canada	2011	ncbi
@@ -33527,7 +33648,6 @@ SAMN08215142	Canada	2009	ncbi
 SAMEA961665	United Kingdom	2003	ncbi
 SAMN08347725	Belarus	2014	ncbi
 SAMEA3562786			ncbi
-SAMEA5542081			ncbi
 SAMN03263095	China	1922	ncbi
 SAMEA2783376			ncbi
 SAMEA1885899			ncbi
@@ -33796,7 +33916,6 @@ SAMN13207957	Georgia	2017	ncbi
 SAMEA104357597	China	2007	ncbi
 SAMN04633341	Moldova	2015	ncbi
 SAMN07251074	Thailand	2011	ncbi
-SAMEA5542042			ncbi
 SAMEA104718415	Netherlands	2016	ncbi
 SAMN09402693	Romania	2015	ncbi
 SAMN04385751	Tajikistan	2010	ncbi
@@ -34028,7 +34147,6 @@ SAMN04521972	South Africa		ncbi
 SAMEA5561579			ncbi
 SAMN08215003	Canada	2007	ncbi
 SAMEA2419048	Switzerland		ncbi
-SAMEA5542018			ncbi
 SAMEA1556721	Malawi	2008	ncbi
 SAMN06578996	India	2014	ncbi
 SAMN07373393	Canada		ncbi
@@ -34270,7 +34388,6 @@ SAMN10060538	Italy	2015	ncbi
 SAMEA1403862	Russia	2009	ncbi
 SAMN07659032	United Kingdom	2016	ncbi
 SAMN08376308	Indonesia	2008	ncbi
-SAMEA5542157			ncbi
 SAMN00013085			ncbi
 SAMEA1708261	Malawi	2007	ncbi
 SAMN05576186	South Africa	2013	ncbi
@@ -34580,7 +34697,6 @@ SAMEA1707882			ncbi
 SAMN13208049	Georgia	2017	ncbi
 SAMN09399463	Azerbaijan	2017	ncbi
 SAMN08215366	Canada	2012	ncbi
-SAMEA5542040			ncbi
 SAMN13195501	DR Congo	2018	ncbi
 SAMEA2142554			ncbi
 SAMEA5076151			ncbi
@@ -34756,13 +34872,11 @@ SAMN05576394	South Africa	2013	ncbi
 SAMEA104362471			ncbi
 SAMEA104447115	Denmark	2003	ncbi
 SAMN07373406	Canada		ncbi
-SAMEA5542101			ncbi
 SAMN09425818	Cote d'Ivoire		ncbi
 SAMEA1403622	Russia	2009	ncbi
 SAMEA2783090			ncbi
 SAMN05577168	South Africa	2013	ncbi
 SAMN05576723	South Africa	2013	ncbi
-SAMEA5542026			ncbi
 SAMEA1019257	United Kingdom	2007	ncbi
 SAMEA104447636	Denmark	2013	ncbi
 SAMEA3512721			ncbi
@@ -34797,7 +34911,6 @@ SAMEA1403722	Russia	2009	ncbi
 SAMN07766023	Canada	2007	ncbi
 SAMEA3721573			ncbi
 SAMN12787878	Iran	2016	ncbi
-SAMEA5542110			ncbi
 SAMEA4752951			ncbi
 SAMEA3374770			ncbi
 SAMN09101716	United Kingdom	2016	ncbi
@@ -35022,7 +35135,6 @@ SAMEA2783218			ncbi
 SAMEA5562301			ncbi
 SAMEA3367275	United Kingdom	2012	ncbi
 SAMEA1556734	Malawi	2002	ncbi
-SAMEA5542153			ncbi
 SAMN07766112	Canada	2009	ncbi
 SAMN06221160	India	2009	ncbi
 SAMEA1904050			ncbi
@@ -36413,7 +36525,6 @@ SAMN05576849	South Africa	2013	ncbi
 SAMN08215041	Canada	2008	ncbi
 SAMN11053643	China	2017	ncbi
 SAMN07603262	Australia	2006	ncbi
-SAMEA5542121			ncbi
 SAMN07956622	Russia	2014	ncbi
 SAMN13169493	Moldova	2018	ncbi
 SAMN07766481	Canada	2014	ncbi
@@ -37430,7 +37541,6 @@ SAMN09100422	United Kingdom	2014	ncbi
 SAMN05576086	South Africa	2013	ncbi
 SAMN05575424	South Africa	2013	ncbi
 SAMEA5282376			ncbi
-SAMEA5542079			ncbi
 SAMN07251175	Thailand	2010	ncbi
 SAMEA5282326			ncbi
 SAMEA3558619			ncbi
@@ -37646,7 +37756,6 @@ SAMEA104718456	Netherlands	2016	ncbi
 SAMN04452487	United Kingdom	2015	ncbi
 SAMEA1707454			ncbi
 SAMEA4798674	DR Congo	2006	ncbi
-SAMEA5542036			ncbi
 SAMEA104614441			ncbi
 SAMEA95459668	South Africa	2011	ncbi
 SAMN05575318	South Africa	2013	ncbi
@@ -37749,7 +37858,6 @@ SAMN03018408	Canada	1997	ncbi
 SAMN13051711	Kazakhstan	2017	ncbi
 SAMEA5232705	Sweden	2018	ncbi
 SAMEA1485436	Malawi	2004	ncbi
-SAMEA5542122			ncbi
 SAMEA4241773			ncbi
 SAMN09867642	South Africa	2015	ncbi
 SAMEA1569104	Malawi	2003	ncbi
@@ -37819,7 +37927,6 @@ SAMEA5190502	Tunisia	2015	ncbi
 SAMN10462585			ncbi
 SAMEA1300188			ncbi
 SAMN04385678	Italy	2012	ncbi
-SAMEA5542141			ncbi
 SAMN13195029	DR Congo	2018	ncbi
 SAMN06221228	Moldova	2009	ncbi
 SAMN05576530	South Africa	2013	ncbi
@@ -37939,7 +38046,6 @@ SAMN07766251	Canada	2011	ncbi
 SAMEA1688472	Malawi	2005	ncbi
 SAMEA104447376	Denmark	2009	ncbi
 SAMEA1707200	Russia	2010	ncbi
-SAMEA5542106			ncbi
 SAMEA1886053			ncbi
 SAMEA3374822			ncbi
 SAMN06578997	India	2014	ncbi
@@ -38070,7 +38176,6 @@ SAMN07236237	Thailand	2011	ncbi
 SAMEA3374797			ncbi
 SAMEA5056376	Portugal	2015	ncbi
 SAMN10961404	China	2016	ncbi
-SAMEA5542085			ncbi
 SAMEA1575422			ncbi
 SAMN05576646	South Africa	2013	ncbi
 SAMEA2785425			ncbi
@@ -38227,7 +38332,6 @@ SAMD00029446	Japan	2013	ncbi
 SAMEA104447404	Denmark	2009	ncbi
 SAMN13194631	DR Congo	2018	ncbi
 SAMEA104718847	Netherlands	2016	ncbi
-SAMEA5542138			ncbi
 SAMN06052294	Uganda	2005	ncbi
 SAMEA2028645			ncbi
 SAMEA3491683			ncbi
@@ -38570,7 +38674,6 @@ SAMEA5228938			ncbi
 SAMN13194791	DR Congo	2018	ncbi
 SAMEA5570071			ncbi
 SAMEA3558567			ncbi
-SAMEA5542105			ncbi
 SAMEA5569808			ncbi
 SAMN08376243	Indonesia	2015	ncbi
 SAMN07213101	Canada	2007	ncbi
@@ -38721,7 +38824,6 @@ SAMN05577191	South Africa	2013	ncbi
 SAMEA1016078	Russia	2008	ncbi
 SAMN11053687	China	2017	ncbi
 SAMN10663309	India	2017	ncbi
-SAMEA5542020			ncbi
 SAMEA5562245			ncbi
 SAMN05577482	South Africa	2013	ncbi
 SAMEA5366636			ncbi
@@ -38885,13 +38987,11 @@ SAMEA5569837			ncbi
 SAMN09914698	Moldova	2013	ncbi
 SAMEA1530669	Malawi	1995	ncbi
 SAMN05576540	South Africa	2013	ncbi
-SAMEA5542062			ncbi
 SAMN05577223	South Africa	2013	ncbi
 SAMEA104447439	Denmark	2010	ncbi
 SAMN06091897	Vietnam	2011	ncbi
 SAMEA2785413			ncbi
 SAMN13194682	DR Congo	2018	ncbi
-SAMEA5542082			ncbi
 SAMEA3558606			ncbi
 SAMEA2783298			ncbi
 SAMN05969976	United Kingdom	2015	ncbi
@@ -39155,7 +39255,6 @@ SAMN13169720	Moldova	2017	ncbi
 SAMEA1966116			ncbi
 SAMN10517935			ncbi
 SAMN09100586	United Kingdom	2016	ncbi
-SAMEA5542196			ncbi
 SAMN09380072	Brazil	2013	ncbi
 SAMN00621150			ncbi
 SAMEA2154711			ncbi
@@ -39171,7 +39270,6 @@ SAMEA4798873	DR Congo	2008	ncbi
 SAMN09380059	Brazil	2012	ncbi
 SAMN09100261	United Kingdom	2017	ncbi
 SAMEA5039590	Lebanon	2016	ncbi
-SAMEA5542174			ncbi
 SAMN08626351	China	2007	ncbi
 SAMEA1569333	Malawi	2009	ncbi
 SAMEA104447254	Denmark	2006	ncbi
@@ -39602,7 +39700,6 @@ SAMEA837971	United Kingdom	2006	ncbi
 SAMEA104357422	China	2007	ncbi
 SAMEA4041339			ncbi
 SAMN09100136	United Kingdom	2014	ncbi
-SAMEA5542035			ncbi
 SAMEA2710732			ncbi
 SAMEA104326187			ncbi
 SAMEA3558456			ncbi
@@ -40439,7 +40536,6 @@ SAMEA2783038			ncbi
 SAMEA1016021	Russia	2009	ncbi
 SAMN05575678	South Africa	2013	ncbi
 SAMN06210424	Canada	2004	ncbi
-SAMEA5542069			ncbi
 SAMN04330045	Namibia		ncbi
 SAMEA2152075			ncbi
 SAMEA2072821			ncbi
@@ -40537,7 +40633,6 @@ SAMEA3281390	Argentina	2009	ncbi
 SAMN10663224	India	2017	ncbi
 SAMN06052280	Uganda	1998	ncbi
 SAMN11489207	South Korea	2002	ncbi
-SAMEA5542198			ncbi
 SAMEA104446968	Denmark	1998	ncbi
 SAMN05001057	Georgia	2015	ncbi
 SAMEA5282323			ncbi
@@ -40918,7 +41013,6 @@ SAMEA2710710			ncbi
 SAMN10448594	Vietnam	2016	ncbi
 SAMEA2144967			ncbi
 SAMN02904601	Canada	2011	ncbi
-SAMEA5542160			ncbi
 SAMEA2783424			ncbi
 SAMEA2026030			ncbi
 SAMN06234183	Thailand	2003	ncbi
@@ -41805,7 +41899,6 @@ SAMEA3715437			ncbi
 SAMN07373477	Canada		ncbi
 SAMN05328088	China	2007	ncbi
 SAMEA2783253			ncbi
-SAMEA5542113			ncbi
 SAMN05575798	South Africa	2013	ncbi
 SAMEA2783587			ncbi
 SAMN13169562	Moldova	2012	ncbi
@@ -42035,7 +42128,6 @@ SAMEA4441609	South Africa	2010	ncbi
 SAMN07766403	Canada	2013	ncbi
 SAMEA5561670			ncbi
 SAMN03263133	China	2010	ncbi
-SAMEA5542058			ncbi
 SAMN12551353	China	2014	ncbi
 SAMEA2343213			ncbi
 SAMN05577331	South Africa	2013	ncbi
@@ -42323,7 +42415,6 @@ SAMEA3558596			ncbi
 SAMEA2025250			ncbi
 SAMN07373589	Canada		ncbi
 SAMN08215115	Canada	2009	ncbi
-SAMEA5542190			ncbi
 SAMN05577106	South Africa	2013	ncbi
 SAMEA1877207			ncbi
 SAMN03246572	China	2007	ncbi
@@ -42453,7 +42544,6 @@ SAMEA1300407			ncbi
 SAMEA2267055			ncbi
 SAMEA2419091	Switzerland		ncbi
 SAMEA4501317	Nigeria	2012	ncbi
-SAMEA5542162			ncbi
 SAMN08626126	China	2007	ncbi
 SAMN06854741			ncbi
 SAMN09099682	United Kingdom	2016	ncbi
@@ -42530,7 +42620,6 @@ SAMEA5626264			ncbi
 SAMEA1569311	Malawi	2005	ncbi
 SAMN06221106	India	2007	ncbi
 SAMN05575081	South Africa	2012	ncbi
-SAMEA5542179			ncbi
 SAMN05576152	South Africa	2013	ncbi
 SAMD00117917	Japan	2003	ncbi
 SAMEA5562047			ncbi
@@ -42542,7 +42631,6 @@ SAMN09914739	Moldova	2014	ncbi
 SAMEA1530623	Malawi	2001	ncbi
 SAMN09102415	United Kingdom	2016	ncbi
 SAMEA5330412	Mexico		ncbi
-SAMEA5542064			ncbi
 SAMEA2177717			ncbi
 SAMN03246633	China	2007	ncbi
 SAMN09102441	United Kingdom	2015	ncbi
@@ -42639,7 +42727,6 @@ SAMN10448614	Vietnam	2015	ncbi
 SAMEA1406150			ncbi
 SAMEA4241812			ncbi
 SAMEA838006	Russia	2008	ncbi
-SAMEA5542041			ncbi
 SAMN08215351	Canada	2012	ncbi
 SAMEA1556802	Malawi	2005	ncbi
 SAMN05575805	South Africa	2013	ncbi
@@ -42972,7 +43059,6 @@ SAMN04385633	Italy	2009	ncbi
 SAMEA3715408			ncbi
 SAMEA1707726			ncbi
 SAMN05575976	South Africa	2013	ncbi
-SAMEA5542159			ncbi
 SAMN07603335	Australia	2011	ncbi
 SAMEA3672863	Australia		ncbi
 SAMEA1019281	United Kingdom	2007	ncbi
@@ -43003,7 +43089,6 @@ SAMN13195317	DR Congo	2018	ncbi
 SAMEA1403993	Russia	2008	ncbi
 SAMN07344724	Djibouti		ncbi
 SAMEA4744333	Brazil	2009	ncbi
-SAMEA5542073			ncbi
 SAMEA4744221	Canada	1999	ncbi
 SAMN00621376			ncbi
 SAMN10517929			ncbi
@@ -43242,7 +43327,6 @@ SAMEA3671395			ncbi
 SAMEA1708277	Malawi	2001	ncbi
 SAMEA1485425	Malawi	2004	ncbi
 SAMEA5056406	Portugal	2013	ncbi
-SAMEA5542030			ncbi
 SAMEA4798790	DR Congo	2007	ncbi
 SAMEA2783058			ncbi
 SAMEA5570064			ncbi
@@ -43404,7 +43488,6 @@ SAMN05575547	South Africa	2013	ncbi
 SAMEA3374938			ncbi
 SAMEA104036001	Ireland	2004	ncbi
 SAMN07766352	Canada	2012	ncbi
-SAMEA5542143			ncbi
 SAMEA3558838			ncbi
 SAMEA2783304			ncbi
 SAMEA104326182			ncbi
@@ -43612,7 +43695,6 @@ SAMEA1707393	Russia	2010	ncbi
 SAMEA2783537			ncbi
 SAMEA5561519			ncbi
 SAMN08376170	Indonesia	2014	ncbi
-SAMEA5542071			ncbi
 SAMN12126234	Canada		ncbi
 SAMN07999065	China	2013	ncbi
 SAMEA4798914	DR Congo	2009	ncbi
@@ -44506,7 +44588,6 @@ SAMEA1556716	Malawi	2008	ncbi
 SAMEA1405894			ncbi
 SAMN09100493	United Kingdom	2014	ncbi
 SAMEA1707530	Russia	2010	ncbi
-SAMEA5542087			ncbi
 SAMN05576980	South Africa	2013	ncbi
 SAMEA4041361			ncbi
 SAMN08376175	Indonesia	2014	ncbi
@@ -45394,7 +45475,6 @@ SAMN06221517	South Africa	2009	ncbi
 SAMN06221471	South Africa	2008	ncbi
 SAMN08214864	Canada	2006	ncbi
 SAMEA104447531	Denmark	2011	ncbi
-SAMEA5542130			ncbi
 SAMEA1903079			ncbi
 SAMEA961621	United Kingdom	2006	ncbi
 SAMN03018400	Canada	2004	ncbi
@@ -45449,7 +45529,6 @@ SAMN03453602	United States	2014	ncbi
 SAMN13208006	Georgia	2017	ncbi
 SAMN03246647	China	2007	ncbi
 SAMEA23743168	Zimbabwe		ncbi
-SAMEA5542056			ncbi
 SAMN13194037	DR Congo	2018	ncbi
 SAMEA104061152	Ethiopia	2012	ncbi
 SAMEA2072834			ncbi
@@ -45462,7 +45541,6 @@ SAMN05789027	Georgia	2014	ncbi
 SAMEA104685006			ncbi
 SAMEA5562431			ncbi
 SAMEA2782872			ncbi
-SAMEA5542023			ncbi
 SAMN07998995	China	2011	ncbi
 SAMN10601613	Russia	2017	ncbi
 SAMEA5329272			ncbi
@@ -45548,7 +45626,6 @@ SAMEA2143828			ncbi
 SAMN02391142			ncbi
 SAMN04522028	Peru		ncbi
 SAMN03246505	China	2007	ncbi
-SAMEA5542193			ncbi
 SAMEA4242285			ncbi
 SAMEA2783201			ncbi
 SAMN06209878	Azerbaijan	2015	ncbi
@@ -45747,7 +45824,6 @@ SAMEA837940	Russia	2008	ncbi
 SAMEA919845			ncbi
 SAMEA4798860	DR Congo	2008	ncbi
 SAMEA1904702			ncbi
-SAMEA5542146			ncbi
 SAMN00621109			ncbi
 SAMN06092005	Vietnam	2010	ncbi
 SAMEA5561663			ncbi
@@ -45811,7 +45887,6 @@ SAMN03246545	China	2007	ncbi
 SAMN07603285	Australia	2010	ncbi
 SAMN06845866	Bangladesh	2012	ncbi
 SAMEA4475123			ncbi
-SAMEA5542161			ncbi
 SAMEA3558277			ncbi
 SAMEA4744197	Canada	1987	ncbi
 SAMN07658209	United Kingdom	2016	ncbi
@@ -45884,7 +45959,6 @@ SAMEA3558802			ncbi
 SAMEA1708309	Malawi	2004	ncbi
 SAMN00621157			ncbi
 SAMN05576940	South Africa	2013	ncbi
-SAMEA5542053			ncbi
 SAMEA837916	Russia	2008	ncbi
 SAMEA104153461	United Kingdom	2015	ncbi
 SAMEA2344282			ncbi
@@ -46149,7 +46223,6 @@ SAMN04396830	India	2009	ncbi
 SAMEA1903049			ncbi
 SAMEA104447667	Denmark	2014	ncbi
 SAMN08626298	China	2007	ncbi
-SAMEA5542178			ncbi
 SAMEA104447333	Denmark	2008	ncbi
 SAMN05576243	South Africa	2013	ncbi
 SAMN09399472	Azerbaijan	2017	ncbi
@@ -46167,7 +46240,6 @@ SAMN08626103	China	2007	ncbi
 SAMN07236073	Thailand	2009	ncbi
 SAMN06221372	Philippines	2009	ncbi
 SAMEA5282444			ncbi
-SAMEA5542049			ncbi
 SAMN13194055	DR Congo	2018	ncbi
 SAMEA4798722	DR Congo	2007	ncbi
 SAMN08347697	Belarus	2013	ncbi
@@ -46192,7 +46264,6 @@ SAMN05576141	South Africa	2013	ncbi
 SAMN00621160			ncbi
 SAMN05577260	South Africa	2013	ncbi
 SAMEA4975679			ncbi
-SAMEA5542048			ncbi
 SAMEA5056364	Portugal	2015	ncbi
 SAMEA2783350			ncbi
 SAMEA104447354	Denmark	2008	ncbi
@@ -46574,7 +46645,6 @@ SAMEA1530686	Malawi	1995	ncbi
 SAMN06849046	Romania	2015	ncbi
 SAMN09914701	Moldova	2014	ncbi
 SAMN03246203	China	2007	ncbi
-SAMEA5542052			ncbi
 SAMN09101671	United Kingdom	2017	ncbi
 SAMN09101455	United Kingdom	2016	ncbi
 SAMN06092669	Vietnam	2010	ncbi
@@ -46679,7 +46749,6 @@ SAMN05172824	Moldova	2013	ncbi
 SAMN07373560	Canada		ncbi
 SAMN03225316	United Kingdom	2013	ncbi
 SAMN13194813	DR Congo	2018	ncbi
-SAMEA5542184			ncbi
 SAMEA104357441	China	2007	ncbi
 SAMN06092501	Vietnam	2010	ncbi
 SAMN05577198	South Africa	2013	ncbi
@@ -46816,7 +46885,6 @@ SAMEA1405957			ncbi
 SAMN06091968	Vietnam	2010	ncbi
 SAMEA104447698	Denmark	2014	ncbi
 SAMEA4888779	Finland	2005	ncbi
-SAMEA5542089			ncbi
 SAMEA4241893			ncbi
 SAMEA4744279	Brazil	2011	ncbi
 SAMN08215094	Canada	2008	ncbi
@@ -46921,7 +46989,6 @@ SAMN02671159	Canada	2012	ncbi
 SAMEA104447213	Denmark	2006	ncbi
 SAMN13194863	DR Congo	2018	ncbi
 SAMN13195046	DR Congo	2018	ncbi
-SAMEA5542119			ncbi
 SAMN12551537	China	2016	ncbi
 SAMN04522043	Peru		ncbi
 SAMN09102201	United Kingdom	2016	ncbi
@@ -47804,7 +47871,6 @@ SAMN05577497	South Africa	2013	ncbi
 SAMN05575914	South Africa	2013	ncbi
 SAMN08215379	Canada	2013	ncbi
 SAMEA104061151	Ethiopia	2012	ncbi
-SAMEA5542095			ncbi
 SAMN07344552	Djibouti		ncbi
 SAMN06579052	India	2014	ncbi
 SAMN05576668	South Africa	2013	ncbi
@@ -47827,7 +47893,6 @@ SAMEA104718576	Netherlands	2016	ncbi
 SAMEA3671318			ncbi
 SAMEA1556631	Malawi	2007	ncbi
 SAMN09914633	Moldova	2014	ncbi
-SAMEA5542126			ncbi
 SAMN03246584	China	2007	ncbi
 SAMN06473216	India	2014	ncbi
 SAMEA1707459			ncbi
@@ -47867,7 +47932,6 @@ SAMEA1403838	Russia	2009	ncbi
 SAMN13264515	Kazakhstan	2017	ncbi
 SAMN04276821	DR Congo		ncbi
 SAMEA1530721	Malawi	1999	ncbi
-SAMEA5542115			ncbi
 SAMEA3671371			ncbi
 SAMD00117947	Japan	2016	ncbi
 SAMN03246259	China	2007	ncbi
@@ -47945,12 +48009,10 @@ SAMN03246187	China	2007	ncbi
 SAMN09100403	United Kingdom	2016	ncbi
 SAMN03246351	China	2007	ncbi
 SAMN07236022	Thailand	2006	ncbi
-SAMEA5542070			ncbi
 SAMEA2710934			ncbi
 SAMEA5282534			ncbi
 SAMN06092192	Vietnam	2010	ncbi
 SAMEA104614400			ncbi
-SAMEA5542185			ncbi
 SAMEA2342283			ncbi
 SAMEA2079269			ncbi
 SAMN07765908	Canada	2005	ncbi
@@ -48387,7 +48449,6 @@ SAMN04053708	Canada	2013	ncbi
 SAMEA1569271	Malawi	2003	ncbi
 SAMN08375366			ncbi
 SAMN09102466	United Kingdom	2015	ncbi
-SAMEA5542074			ncbi
 SAMN13169475	Moldova	2017	ncbi
 SAMN04276814	South Africa		ncbi
 SAMEA2783071			ncbi
@@ -48709,7 +48770,6 @@ SAMN06209985	Azerbaijan	2015	ncbi
 SAMN07331218	Australia	2010	ncbi
 SAMN07344671	Djibouti		ncbi
 SAMN13195311	DR Congo	2018	ncbi
-SAMEA5542096			ncbi
 SAMEA104027387	Denmark	2003	ncbi
 SAMN07373443	Canada		ncbi
 SAMEA1530633	Malawi	2000	ncbi
@@ -48832,7 +48892,6 @@ SAMEA3558556			ncbi
 SAMEA104685075			ncbi
 SAMN03246617	China	2007	ncbi
 SAMEA4744271	Brazil	2004	ncbi
-SAMEA5542077			ncbi
 SAMEA104188334			ncbi
 SAMEA104446963	Denmark	1998	ncbi
 SAMN09425805	Switzerland		ncbi
@@ -48887,7 +48946,6 @@ SAMN09756075	Moldova	2014	ncbi
 SAMEA1569281	Malawi	2009	ncbi
 SAMN09756231	Moldova	2014	ncbi
 SAMEA5561865			ncbi
-SAMEA5542129			ncbi
 SAMEA1530968	Malawi	1999	ncbi
 SAMEA5561396			ncbi
 SAMN04276715	Thailand		ncbi
@@ -49092,7 +49150,6 @@ SAMEA2081338			ncbi
 SAMEA1016060	Russia	2008	ncbi
 SAMEA1904716			ncbi
 SAMN08214895	Canada	2006	ncbi
-SAMEA5542051			ncbi
 SAMN06221156	India	2008	ncbi
 SAMEA104718523	Netherlands	2016	ncbi
 SAMEA1877097			ncbi
@@ -49746,12 +49803,10 @@ SAMEA5076071			ncbi
 SAMN09914686	Moldova	2013	ncbi
 SAMEA1707665			ncbi
 SAMN06091805	Vietnam	2011	ncbi
-SAMEA5542149			ncbi
 SAMEA3558379			ncbi
 SAMEA1406155			ncbi
 SAMN11053631	China	2017	ncbi
 SAMEA5228937			ncbi
-SAMEA5542021			ncbi
 SAMEA3374902			ncbi
 SAMEA104362385			ncbi
 SAMN09099762	United Kingdom	2016	ncbi
@@ -49882,7 +49937,6 @@ SAMN05575843	South Africa	2013	ncbi
 SAMEA95471668	South Africa	2009	ncbi
 SAMEA1903092			ncbi
 SAMN04385753	Tajikistan	2010	ncbi
-SAMEA5542127			ncbi
 SAMEA104708035	Brazil	2015	ncbi
 SAMN05577085	South Africa	2013	ncbi
 SAMN10663258	India	2017	ncbi
@@ -50122,7 +50176,6 @@ SAMN05576272	South Africa	2013	ncbi
 SAMEA104357590	China	2007	ncbi
 SAMEA5561758			ncbi
 SAMEA2661019			ncbi
-SAMEA5542099			ncbi
 SAMEA5569979			ncbi
 SAMN09756164	Moldova	2013	ncbi
 SAMEA5330361	Mexico		ncbi
@@ -50348,7 +50401,6 @@ SAMN11179704			ncbi
 SAMEA1019011	United Kingdom	2007	ncbi
 SAMEA1707848			ncbi
 SAMN05577246	South Africa	2013	ncbi
-SAMEA5542189			ncbi
 SAMN09914665	Moldova	2014	ncbi
 SAMEA3374772			ncbi
 SAMEA1877103			ncbi
@@ -50684,7 +50736,6 @@ SAMN13169706	Moldova	2017	ncbi
 SAMN13194908	DR Congo	2018	ncbi
 SAMD00117777	Japan	2012	ncbi
 SAMEA104153407	United Kingdom	2016	ncbi
-SAMEA5542128			ncbi
 SAMEA3558455			ncbi
 SAMN05577221	South Africa	2013	ncbi
 SAMN06055523	Vietnam	2009	ncbi
@@ -50792,7 +50843,6 @@ SAMN06092135	Vietnam	2010	ncbi
 SAMEA104357537	China	2009	ncbi
 SAMEA5570014			ncbi
 SAMEA1403759	Russia	2009	ncbi
-SAMEA5542142			ncbi
 SAMN08626322	China	2007	ncbi
 SAMN09685342	Uganda	2010	ncbi
 SAMN10961338	China	2015	ncbi
@@ -51806,7 +51856,6 @@ SAMEA104685111			ncbi
 SAMEA2710812			ncbi
 SAMN03277253	Moldova	2013	ncbi
 SAMEA1406131			ncbi
-SAMEA5542063			ncbi
 SAMN05577336	South Africa	2013	ncbi
 SAMEA4744195	Canada	1991	ncbi
 SAMN11854501			ncbi
@@ -52305,7 +52354,6 @@ SAMEA104357453	China	2007	ncbi
 SAMN06473202	India	2014	ncbi
 SAMN09402696	Romania	2015	ncbi
 SAMN06055458	Vietnam	2009	ncbi
-SAMEA5542164			ncbi
 SAMN08215020	Canada	2008	ncbi
 SAMEA1300627			ncbi
 SAMEA838051	United Kingdom	2006	ncbi
@@ -52342,7 +52390,6 @@ SAMN05789091	Georgia	2014	ncbi
 SAMN09764568			ncbi
 SAMEA5048158			ncbi
 SAMN09651773	Georgia	2012	ncbi
-SAMEA5542137			ncbi
 SAMN09625674	United States	2010	ncbi
 SAMEA104718794	Netherlands	2016	ncbi
 SAMEA5561667			ncbi
@@ -52431,7 +52478,6 @@ SAMN08626169	China	2007	ncbi
 SAMN07603333	Australia	2011	ncbi
 SAMN06210057	Moldova	2016	ncbi
 SAMN06091711	Vietnam	2011	ncbi
-SAMEA5542032			ncbi
 SAMN07373396	Canada		ncbi
 SAMN06055855	Vietnam	2009	ncbi
 SAMEA104447673	Denmark	2014	ncbi
@@ -52546,7 +52592,6 @@ SAMN07766156	Canada	2010	ncbi
 SAMEA1485462	Malawi	2004	ncbi
 SAMN04452600	United Kingdom	2015	ncbi
 SAMN13194196	DR Congo	2018	ncbi
-SAMEA5542098			ncbi
 SAMN08626236	China	2007	ncbi
 SAMEA1406027			ncbi
 SAMN09756119	Moldova	2014	ncbi
@@ -52799,7 +52844,6 @@ SAMEA4744262	Brazil	2004	ncbi
 SAMN05577494	South Africa	2013	ncbi
 SAMEA104718582	Netherlands	2016	ncbi
 SAMEA4975675			ncbi
-SAMEA5542054			ncbi
 SAMEA1877111			ncbi
 SAMN13195013	DR Congo	2018	ncbi
 SAMEA104447271	Denmark	2007	ncbi
@@ -52832,7 +52876,6 @@ SAMEA1886066			ncbi
 SAMN05577162	South Africa	2013	ncbi
 SAMN06091986	Vietnam	2011	ncbi
 SAMN06092182	Vietnam	2010	ncbi
-SAMEA5542083			ncbi
 SAMN05575885	South Africa	2013	ncbi
 SAMN11053650	China	2017	ncbi
 SAMN07661273	Australia	2010	ncbi
@@ -53162,7 +53205,6 @@ SAMN12551344	China	2014	ncbi
 SAMEA1019301	United Kingdom	2009	ncbi
 SAMEA104447144	Denmark	2004	ncbi
 SAMN05577100	South Africa	2013	ncbi
-SAMEA5542045			ncbi
 SAMN06055550	Vietnam	2009	ncbi
 SAMN05576791	South Africa	2013	ncbi
 SAMN06579116	India	2014	ncbi
@@ -53258,7 +53300,6 @@ SAMN09425872	Peru		ncbi
 SAMEA3715550			ncbi
 SAMN13194487	DR Congo	2018	ncbi
 SAMN07344706	Djibouti		ncbi
-SAMEA5542145			ncbi
 SAMEA4798768	DR Congo	2007	ncbi
 SAMN07251283	Thailand	2006	ncbi
 SAMEA3558884			ncbi
@@ -53352,7 +53393,6 @@ SAMEA104362489			ncbi
 SAMEA3516061			ncbi
 SAMEA1707240	Russia	2010	ncbi
 SAMN00013096			ncbi
-SAMEA5542150			ncbi
 SAMEA104447343	Denmark	2008	ncbi
 SAMEA104447514	Denmark	2011	ncbi
 SAMN13194404	DR Congo	2018	ncbi
@@ -53394,7 +53434,6 @@ SAMEA5662670	South Africa	1996	ncbi
 SAMN08992121			ncbi
 SAMN08214893	Canada	2006	ncbi
 SAMEA2072842			ncbi
-SAMEA5542093			ncbi
 SAMN05806759	Bangladesh	2012	ncbi
 SAMEA5282485			ncbi
 SAMN08214826	Canada	2005	ncbi
@@ -53611,12 +53650,10 @@ SAMN08383194	Portugal	2015	ncbi
 SAMEA1019229	United Kingdom	2009	ncbi
 SAMN09102117	United Kingdom	2017	ncbi
 SAMEA5330413	Mexico		ncbi
-SAMEA5542088			ncbi
 SAMN07373511	Canada		ncbi
 SAMEA5561814			ncbi
 SAMEA3558690			ncbi
 SAMEA5662691	South Africa	1996	ncbi
-SAMEA5542125			ncbi
 SAMN05276402	United Kingdom	2015	ncbi
 SAMN13195193	DR Congo	2018	ncbi
 SAMEA1403818	Russia	2009	ncbi
@@ -54437,7 +54474,6 @@ SAMEA104718811	Netherlands	2016	ncbi
 SAMN07251171	Thailand	2010	ncbi
 SAMN03246186	China	2007	ncbi
 SAMN00621485			ncbi
-SAMEA5542107			ncbi
 SAMN07766222	Canada	2011	ncbi
 SAMEA1300694			ncbi
 SAMN05577462	South Africa	2013	ncbi
@@ -55002,7 +55038,6 @@ SAMN04330062	Namibia		ncbi
 SAMEA1574091			ncbi
 SAMEA2783245			ncbi
 SAMEA2046283			ncbi
-SAMEA5542072			ncbi
 SAMN06221325	Philippines	2009	ncbi
 SAMEA1707719			ncbi
 SAMN05575452	South Africa	2013	ncbi
@@ -55386,7 +55421,6 @@ SAMN05575670	South Africa	2013	ncbi
 SAMN09425839	Switzerland		ncbi
 SAMN09380042	Brazil	2009	ncbi
 SAMEA2604719	United Kingdom	2014	ncbi
-SAMEA5542076			ncbi
 SAMN07344490	Djibouti		ncbi
 SAMN06055527	Vietnam	2009	ncbi
 SAMEA104144138	China	2009	ncbi
@@ -55462,7 +55496,6 @@ SAMEA4241798			ncbi
 SAMN04480330	United States		ncbi
 SAMN06579118	India	2014	ncbi
 SAMEA5569887			ncbi
-SAMEA5542047			ncbi
 SAMEA104447203	Denmark	2005	ncbi
 SAMN04053660	Canada	2008	ncbi
 SAMEA3512771			ncbi
@@ -55662,7 +55695,6 @@ SAMN07251125	Thailand	2008	ncbi
 SAMN11265270			ncbi
 SAMEA1885966			ncbi
 SAMEA104357459	China	2007	ncbi
-SAMEA5542038			ncbi
 SAMN07251173	Thailand	2010	ncbi
 SAMN05576041	South Africa	2013	ncbi
 SAMEA2343243			ncbi
@@ -56245,7 +56277,6 @@ SAMEA3920985	China	2009	ncbi
 SAMN06092068	Vietnam	2010	ncbi
 SAMN11338349	Russia		ncbi
 SAMEA104362046			ncbi
-SAMEA5542029			ncbi
 SAMN09380081	Brazil	2008	ncbi
 SAMN04276757	DR Congo		ncbi
 SAMN06092070	Vietnam	2010	ncbi
@@ -56738,7 +56769,6 @@ SAMEA897818	Malawi	1998	ncbi
 SAMEA1569137	Malawi	2003	ncbi
 SAMD00029520	Japan	2008	ncbi
 SAMN09770176			ncbi
-SAMEA5542059			ncbi
 SAMEA1707711			ncbi
 SAMN09102430	United Kingdom	2016	ncbi
 SAMN07766412	Canada	2013	ncbi
@@ -57066,7 +57096,6 @@ SAMEA3725930			ncbi
 SAMN08215244	Canada	2011	ncbi
 SAMN03246271	China	2007	ncbi
 SAMN08215013	Canada	2008	ncbi
-SAMEA5542148			ncbi
 SAMN08214977	Canada	2007	ncbi
 SAMEA2783167			ncbi
 SAMN04385699	Italy	2013	ncbi
@@ -57208,7 +57237,6 @@ SAMN09764553			ncbi
 SAMEA104243526			ncbi
 SAMN05576387	South Africa	2013	ncbi
 SAMN08626079	China	2007	ncbi
-SAMEA5542118			ncbi
 SAMEA5228878			ncbi
 SAMEA4241783			ncbi
 SAMN07213043	Canada	1992	ncbi
@@ -57280,7 +57308,6 @@ SAMN11094519	Switzerland	2017	ncbi
 SAMEA1971616			ncbi
 SAMN03246329	China	2007	ncbi
 SAMN06092404	Vietnam	2010	ncbi
-SAMEA5542171			ncbi
 SAMN09100408	United Kingdom	2016	ncbi
 SAMN08619640	Botswana		ncbi
 SAMN09708379		2013	ncbi
@@ -57740,7 +57767,6 @@ SAMEA2028926			ncbi
 SAMEA1708375	Malawi	2004	ncbi
 SAMN13169432	Moldova	2018	ncbi
 SAMEA1530938	Malawi	2001	ncbi
-SAMEA5542067			ncbi
 SAMEA1877284			ncbi
 SAMN08376100	Indonesia		ncbi
 SAMN13169714	Moldova	2017	ncbi
@@ -57954,7 +57980,6 @@ SAMEA1405911			ncbi
 SAMN06092273	Vietnam	2010	ncbi
 SAMD00117843	Japan	2012	ncbi
 SAMEA1707653			ncbi
-SAMEA5542044			ncbi
 SAMN07766203	Canada	2010	ncbi
 SAMN07251291	Thailand	2008	ncbi
 SAMEA1485296	Malawi	2004	ncbi
@@ -58041,7 +58066,6 @@ SAMEA1485427	Malawi	2003	ncbi
 SAMEA3448355			ncbi
 SAMN06221514	South Africa	2008	ncbi
 SAMN07956486	Russia	2011	ncbi
-SAMEA5542078			ncbi
 SAMEA4744374	Brazil	2010	ncbi
 SAMN03263113	China	2009	ncbi
 SAMEA3671282			ncbi
@@ -58141,7 +58165,6 @@ SAMN06091985	Vietnam	2011	ncbi
 SAMEA5330356	Mexico		ncbi
 SAMN09101308	United Kingdom	2014	ncbi
 SAMN07344551	Djibouti		ncbi
-SAMEA5542111			ncbi
 SAMEA1405906			ncbi
 SAMN09399455	Azerbaijan	2017	ncbi
 SAMN06092509	Vietnam	2010	ncbi
@@ -58264,7 +58287,6 @@ SAMN06092075	Vietnam	2010	ncbi
 SAMEA3725918			ncbi
 SAMN13208060	Georgia	2016	ncbi
 SAMEA104362513			ncbi
-SAMEA5542158			ncbi
 SAMEA104447325	Denmark	2008	ncbi
 SAMEA5561470			ncbi
 SAMEA5561577			ncbi
@@ -58703,7 +58725,6 @@ SAMEA104362451			ncbi
 SAMN06234194	Thailand	2007	ncbi
 SAMEA2419087	Switzerland		ncbi
 SAMD00117922	Japan	2015	ncbi
-SAMEA5542057			ncbi
 SAMN09102265	United Kingdom	2016	ncbi
 SAMN08851353	United States	2018	ncbi
 SAMEA104685050			ncbi
@@ -59587,7 +59608,6 @@ SAMEA3558285			ncbi
 SAMEA1300320			ncbi
 SAMEA104362117			ncbi
 SAMN13169514	Moldova	2018	ncbi
-SAMEA5542019			ncbi
 SAMEA2160557			ncbi
 SAMN11265316			ncbi
 SAMN05577089	South Africa	2013	ncbi
@@ -59659,7 +59679,6 @@ SAMEA2710724			ncbi
 SAMN09101365	United Kingdom	2014	ncbi
 SAMEA4242302			ncbi
 SAMN03246685	China	2007	ncbi
-SAMEA5542114			ncbi
 SAMEA1708420	Malawi	2006	ncbi
 SAMEA2783203			ncbi
 SAMEA3671484			ncbi
@@ -59894,7 +59913,6 @@ SAMEA1688540	Malawi	2010	ncbi
 SAMN00013087			ncbi
 SAMN12551265	China	2013	ncbi
 SAMEA3367287	United Kingdom	2012	ncbi
-SAMEA5542186			ncbi
 SAMN09399446	Azerbaijan	2017	ncbi
 SAMN09099881	United Kingdom	2014	ncbi
 SAMEA4441603	South Africa	2010	ncbi
@@ -60493,7 +60511,6 @@ SAMEA5569951			ncbi
 SAMEA5938973	Mozambique	2014	ncbi
 SAMEA104684937			ncbi
 SAMN06092393	Vietnam	2010	ncbi
-SAMEA5542028			ncbi
 SAMEA5562304			ncbi
 SAMEA1707734			ncbi
 SAMN09402692	Romania	2015	ncbi
@@ -60504,7 +60521,6 @@ SAMN13194738	DR Congo	2018	ncbi
 SAMN06091912	Vietnam	2011	ncbi
 SAMEA104357425	China	2007	ncbi
 SAMEA4101624			ncbi
-SAMEA5542147			ncbi
 SAMEA1485319	Malawi	2003	ncbi
 SAMEA1406054			ncbi
 SAMN07236502	Thailand	2006	ncbi
@@ -60625,7 +60641,6 @@ SAMEA104390557	Norway	2003	ncbi
 SAMN04386021			ncbi
 SAMN04521951	South Africa		ncbi
 SAMN08138588	Russia	2013	ncbi
-SAMEA5542066			ncbi
 SAMEA4041329			ncbi
 SAMEA104685066			ncbi
 SAMEA1707121	Russia	2010	ncbi
@@ -60761,7 +60776,6 @@ SAMEA4798750	DR Congo	2007	ncbi
 SAMN12551266	China	2013	ncbi
 SAMEA1929816			ncbi
 SAMEA4798804	DR Congo	2007	ncbi
-SAMEA5542022			ncbi
 SAMN06091808	Vietnam	2011	ncbi
 SAMEA104685062			ncbi
 SAMN06092604	Vietnam	2010	ncbi
@@ -60772,7 +60786,6 @@ SAMN03246468	China	2007	ncbi
 SAMEA3715568			ncbi
 SAMEA5569517			ncbi
 SAMN13195349	DR Congo	2018	ncbi
-SAMEA5542055			ncbi
 SAMEA1904047			ncbi
 SAMN04522127	Peru		ncbi
 SAMEA1406117			ncbi
@@ -60858,7 +60871,6 @@ SAMN07236119	Thailand	2013	ncbi
 SAMN07660369	United Kingdom	2016	ncbi
 SAMN07313097	China	2013	ncbi
 SAMEA5282419			ncbi
-SAMEA5542165			ncbi
 SAMEA5562056			ncbi
 SAMN05575419	South Africa	2013	ncbi
 SAMEA1885931			ncbi
@@ -61625,7 +61637,6 @@ SAMN09651806	Georgia	2012	ncbi
 SAMD00029385	Japan	2008	ncbi
 SAMEA1708304	Malawi	1997	ncbi
 SAMEA2079217			ncbi
-SAMEA5542183			ncbi
 SAMN13194314	DR Congo	2018	ncbi
 SAMEA4041334			ncbi
 SAMEA3558537			ncbi
@@ -61695,7 +61706,6 @@ SAMN08376182	Indonesia	2014	ncbi
 SAMEA3671604			ncbi
 SAMEA104447356	Denmark	2008	ncbi
 SAMEA1707263	Russia	2010	ncbi
-SAMEA5542060			ncbi
 SAMN05577580	South Africa	2013	ncbi
 SAMN09715524	Romania	2016	ncbi
 SAMEA4129058			ncbi
@@ -61793,7 +61803,6 @@ SAMEA1904669			ncbi
 SAMN07236083	Thailand	2009	ncbi
 SAMD00117769	Japan	2013	ncbi
 SAMEA1903106			ncbi
-SAMEA5542068			ncbi
 SAMN06092387	Vietnam	2010	ncbi
 SAMEA1569316	Malawi	1998	ncbi
 SAMN05576977	South Africa	2013	ncbi
@@ -61945,7 +61954,6 @@ SAMD00117827	Japan	2012	ncbi
 SAMN12551354	China	2014	ncbi
 SAMN10592346	Russia	2017	ncbi
 SAMN06055507	Vietnam	2009	ncbi
-SAMEA5542170			ncbi
 SAMEA1707774			ncbi
 SAMEA104718429	Netherlands	2016	ncbi
 SAMEA1530680	Malawi	2000	ncbi
@@ -62202,7 +62210,6 @@ SAMN06052325	Uganda	2009	ncbi
 SAMEA3512713			ncbi
 SAMN05576770	South Africa	2013	ncbi
 SAMN12651031	Thailand		ncbi
-SAMEA5542135			ncbi
 SAMN09756205	Moldova	2014	ncbi
 SAMN05576688	South Africa	2013	ncbi
 SAMEA1403982	Russia	2009	ncbi
@@ -62358,7 +62365,6 @@ SAMEA1707651			ncbi
 SAMEA104718903	Netherlands	2016	ncbi
 SAMN12389206	Hong Kong		ncbi
 SAMEA5626317			ncbi
-SAMEA5542155			ncbi
 SAMEA5561686			ncbi
 SAMN07344492	Djibouti		ncbi
 SAMEA3558737			ncbi
@@ -62503,7 +62509,6 @@ SAMEA2783460			ncbi
 SAMEA1300293			ncbi
 SAMEA104685051			ncbi
 SAMN09100184	United Kingdom	2015	ncbi
-SAMEA5542182			ncbi
 SAMEA2782943			ncbi
 SAMN04053696	Canada	2013	ncbi
 SAMN07236118	Thailand	2012	ncbi
@@ -63147,7 +63152,6 @@ SAMN09101447	United Kingdom	2014	ncbi
 SAMN07659751	United Kingdom	2016	ncbi
 SAMN00621173			ncbi
 SAMN09651729	Georgia	2013	ncbi
-SAMEA5542197			ncbi
 SAMN08626088	China	2007	ncbi
 SAMN13169642	Moldova	2013	ncbi
 SAMEA919890			ncbi
@@ -63373,7 +63377,6 @@ SAMEA2785416			ncbi
 SAMEA1530844	Malawi	1998	ncbi
 SAMEA5662667	South Africa	1996	ncbi
 SAMN09425873	Peru		ncbi
-SAMEA5542091			ncbi
 SAMEA1707761			ncbi
 SAMN06579100	India	2014	ncbi
 SAMEA4241962			ncbi
@@ -63822,7 +63825,6 @@ SAMEA1018846	United Kingdom	2008	ncbi
 SAMEA1904677			ncbi
 SAMN05576797	South Africa	2013	ncbi
 SAMEA2783336			ncbi
-SAMEA5542124			ncbi
 SAMN13264532	Kazakhstan	2018	ncbi
 SAMEA2783169			ncbi
 SAMN09651782	Georgia	2012	ncbi
@@ -64090,7 +64092,6 @@ SAMEA1707870			ncbi
 SAMN08376161	Indonesia	2014	ncbi
 SAMN04114984	India	2010	ncbi
 SAMN04396863	India	2009	ncbi
-SAMEA5542154			ncbi
 SAMEA3358979			ncbi
 SAMN06221287	Moldova	2009	ncbi
 SAMEA1877223			ncbi
@@ -64733,7 +64734,6 @@ SAMN13169456	Moldova	2013	ncbi
 SAMN13194852	DR Congo	2018	ncbi
 SAMEA1886017			ncbi
 SAMN06221454	South Africa	2006	ncbi
-SAMEA5542167			ncbi
 SAMN09101709	United Kingdom	2017	ncbi
 SAMN08626223	China	2007	ncbi
 SAMN00013144			ncbi

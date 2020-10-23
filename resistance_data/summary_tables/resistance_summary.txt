@@ -12892,6 +12892,186 @@ SAMEA3562790	S		S				S		S					S				S			S
 SAMEA3562791	S		S						S									S								
 SAMEA36310168								R					R										R		R	
 SAMEA36322918								R					R										R		R	
+SAMEA5542018	S		S					S					S	S	S										S	R
+SAMEA5542019	S		S					S					R	S	S										R	S
+SAMEA5542020	S		S					S					S	S	S										S	S
+SAMEA5542021	S		S					S					R	S	S										R	S
+SAMEA5542022	S		S					S					R	S	S										S	S
+SAMEA5542023	S		S					R					R	S	S										R	R
+SAMEA5542024	S		S					S					R	S	S										R	S
+SAMEA5542025	S		S					S					R	S	S										R	S
+SAMEA5542026	S		S					S					S	S	S										S	S
+SAMEA5542027	S		S					S					S	S	S										S	S
+SAMEA5542028	S		S					R					R	S	S										R	S
+SAMEA5542029	S		S					S					S	S	S										S	S
+SAMEA5542030	S		S					S					S	S	S										S	S
+SAMEA5542031	S		S					S						S	S										S	S
+SAMEA5542032	S		S					S					S	S	S										S	S
+SAMEA5542033	S		S					S					S	S	S										S	S
+SAMEA5542034	S		S					S					S	S	S										S	R
+SAMEA5542035	S		S										R	S	S										R	R
+SAMEA5542036	S												R	S	S										R	R
+SAMEA5542037	S		S										R	S	S										R	R
+SAMEA5542038	S		S					S					S	S	S										S	S
+SAMEA5542039	S							R					R	S	S										R	R
+SAMEA5542040	S		S					S					R	R	S										S	R
+SAMEA5542041	S							R					R	R	S										R	R
+SAMEA5542042	S		S					S					S	S	S										S	S
+SAMEA5542043	S		S					S					R	S	S										R	R
+SAMEA5542044	S		S										R	S	S										R	S
+SAMEA5542045	S		S					S					S	S	S										S	S
+SAMEA5542046	S		S					S					R	S	S										R	S
+SAMEA5542047	S		S					S					R	S	S										R	S
+SAMEA5542048	S		S					S					S	S	S										S	S
+SAMEA5542049	S		S					S					S	S	S										S	S
+SAMEA5542050	S		S					S					R	S	S										S	S
+SAMEA5542051	S		S					S					R	S	S										R	S
+SAMEA5542052	S		S					S					R	S	S										R	
+SAMEA5542053	S		S					S					R	S	S										R	
+SAMEA5542054	S		S					S					R	S	S										S	S
+SAMEA5542055	S		S					S					R	S	S										S	S
+SAMEA5542056	S		S					S					S	S	S										S	S
+SAMEA5542057	S		S					S					R	S	S										S	S
+SAMEA5542058	S							S					S	S	S										S	S
+SAMEA5542059	S		S					S					S	S	S										S	
+SAMEA5542060	S		S					S						S	S										S	S
+SAMEA5542061	S		S										R	S	S										S	S
+SAMEA5542062	S		S					S					R	S	S											S
+SAMEA5542063	S		S					S					R	S	S										S	R
+SAMEA5542064	S		S					S						S	S										S	S
+SAMEA5542065	S		S					S					S	S	S										S	
+SAMEA5542066	S							S					S	S	S										S	S
+SAMEA5542067	S		S					S					S	S	S										S	S
+SAMEA5542068	S		S					S					R	S											S	S
+SAMEA5542069	S		S											S	S										S	
+SAMEA5542070	S		S					S					S	S	S										S	S
+SAMEA5542071	S		S					R					S	S	S										S	
+SAMEA5542072	S		S					R					R	S	S										S	
+SAMEA5542073	S		S					R						S	S											
+SAMEA5542074	S		S					S					R	S	S										S	S
+SAMEA5542075	S		S					S					R	S	S										S	S
+SAMEA5542076	S		S					S					S	S	S										S	S
+SAMEA5542077	S		S										S	S	S										R	S
+SAMEA5542078	S		S					S					S	S	S										S	S
+SAMEA5542079	S		S					S					S	S	S										S	S
+SAMEA5542080	S		S					S					R	S	S										S	S
+SAMEA5542081	S		S					S					R	S	S										S	S
+SAMEA5542082	S		S					S					S	S	S										S	S
+SAMEA5542083	S		S					R					R	S	S										S	S
+SAMEA5542084	S		S					S						S	S										S	S
+SAMEA5542085	S		S					S					S	S	S										S	S
+SAMEA5542086	S		S					S						S	S											S
+SAMEA5542087	S		S					S						S	S											S
+SAMEA5542088	S		S					S						S	S										S	S
+SAMEA5542089	S		S					S					S	S	S										S	S
+SAMEA5542090	S		S					S					R	S	S										S	S
+SAMEA5542091	S		S					R					R	S	S											R
+SAMEA5542092	S		S					S					S	S	S										S	S
+SAMEA5542093	S		S					S					S	S	S										S	S
+SAMEA5542094	S		S					S						S	S										S	S
+SAMEA5542095	S		S					S						S	S										R	S
+SAMEA5542096	S		S					S					S	S	S										S	R
+SAMEA5542097	S		S					S					R	S	S										S	R
+SAMEA5542098	S		S					S					R	R	S											
+SAMEA5542099	S		S					S					S	S	S										S	R
+SAMEA5542100	S		S					S					R	S	S										R	S
+SAMEA5542101	S		S					S					R	S	S										R	S
+SAMEA5542102	S		S					S					R	S	S										S	S
+SAMEA5542103	S		S					S					R	S	S										S	S
+SAMEA5542104	S		S					S					S	S	S										S	S
+SAMEA5542105	S		S					S					S	S	S										S	S
+SAMEA5542106	S		S					S					R	S	S										R	S
+SAMEA5542107	S		S					S					R	S	S										R	S
+SAMEA5542108	S		S					S					S	S	S										R	S
+SAMEA5542109	S		S					S					S	S	S										S	S
+SAMEA5542110	S		S					S					S	S	S										S	S
+SAMEA5542111	S		S					S					S	S	S										S	S
+SAMEA5542112	S		S										R	S	S										R	S
+SAMEA5542113	S		S					S					S	S	S										S	S
+SAMEA5542114	S		S					S					S	S	S										S	S
+SAMEA5542115	S		S					S					R	S	S										S	R
+SAMEA5542116	S		S										R	S	S										R	R
+SAMEA5542117	S							S					S	S	S										S	
+SAMEA5542118	S		S					S					S	S	S										S	S
+SAMEA5542119	S		S										R	S	S										R	R
+SAMEA5542120	S							S					R	S	S										S	R
+SAMEA5542121	S							S					R	S	S										S	R
+SAMEA5542122	S		S					S					S	S	S										S	S
+SAMEA5542123	S		S					S					S	S	S										S	S
+SAMEA5542124	S		S					S					S	S	S										S	S
+SAMEA5542125	S							S					S	S	S										S	S
+SAMEA5542126	S												S	S	S										S	S
+SAMEA5542127	S		S					S						S	S										R	S
+SAMEA5542128	S		S										R	S	S										R	S
+SAMEA5542129	S		S										R	S	S										R	S
+SAMEA5542130	S		S					S					R	S	S										R	S
+SAMEA5542131	S		S					S					R	S	S										S	S
+SAMEA5542132	S		S					S					S	S	S										S	S
+SAMEA5542133	S		S					S					S	S	S										S	S
+SAMEA5542134	S		S					S					S	S	S										S	R
+SAMEA5542135	S		S										R	S	S										R	S
+SAMEA5542136	S		S					S					S	S	S										S	S
+SAMEA5542137	S		S					S					S	S	S										S	S
+SAMEA5542138	S		S					S					S	S	S										S	S
+SAMEA5542139	S		S					S					S	S	S										S	S
+SAMEA5542140	S		S					S					S	S	S										S	S
+SAMEA5542141	S		S					S					S	S	S										S	S
+SAMEA5542142	S		S					S					R	S	S										S	S
+SAMEA5542143	S		S					S					R	S	S										R	S
+SAMEA5542144	S		S					S					R	S	S										R	R
+SAMEA5542145	S		S					S					R	S	S										R	S
+SAMEA5542146	S		S					R					R	S	S										R	R
+SAMEA5542147	S		S										R	S	S										R	
+SAMEA5542148	S		S					S					R	S	S											S
+SAMEA5542149	S		S					S					S	S	S										S	R
+SAMEA5542150	S		S					S					R	S	S										R	R
+SAMEA5542151	S		S					S						S	S										S	S
+SAMEA5542152	S		S					S					S	S	S										S	S
+SAMEA5542153	S		S					S						S	S											
+SAMEA5542154	S		S					S						R	S										S	
+SAMEA5542155	S		S					S						S	S											S
+SAMEA5542156	S		S					S					S	R	S										S	S
+SAMEA5542157	S		S					S					S	S	S										S	S
+SAMEA5542158	S		S					S						S	S										S	S
+SAMEA5542159	S		S					S					S	S	S										S	S
+SAMEA5542160	S		S					S					R	S	S										S	S
+SAMEA5542161	S		S											S	S											S
+SAMEA5542162	S		S					S					S	S	S										S	S
+SAMEA5542163	S		S					S						S	S											S
+SAMEA5542164	R		R											R	S											
+SAMEA5542165	R		R											R	S											
+SAMEA5542166	S		S					S						S	S										S	S
+SAMEA5542167	S		S											S	S											
+SAMEA5542169	S							S						S	S											
+SAMEA5542170	S		S					S					S	S	S										S	
+SAMEA5542171	S		S					S					S	S	S										S	S
+SAMEA5542172	S		S					S					S	S	S										S	
+SAMEA5542173	S		S											S	S											
+SAMEA5542174	S		S					S						S	S											S
+SAMEA5542175	S		S					S						S	S											
+SAMEA5542176	S		S					S						S	S										S	S
+SAMEA5542177	S							S					R	S	S										S	S
+SAMEA5542178	S		S					S					S	S	S										S	S
+SAMEA5542179	S		S					S					S	S	S										S	S
+SAMEA5542180	S		S											S	S											S
+SAMEA5542181	S		S					S					S	S	S										S	S
+SAMEA5542182	S		S					S						S	S										S	S
+SAMEA5542183	S													S	S										S	
+SAMEA5542184	S		S					S					S	S	S										S	S
+SAMEA5542185	S		S					S					S	S	S										S	S
+SAMEA5542186	S		S					S					S	S	S										S	S
+SAMEA5542187	S		S					S						S	S										S	S
+SAMEA5542188	S		S					S						S	S											
+SAMEA5542189	S		S					S						S	S											S
+SAMEA5542190	S		S					S						S	S											S
+SAMEA5542191	S		S					S						S	S											S
+SAMEA5542192	S		S					S						S	S										S	S
+SAMEA5542193	S		S					S						R	S											
+SAMEA5542194	S		S					S					S	S	S										S	S
+SAMEA5542195	S		S					S					S	S	S										S	S
+SAMEA5542196	S		S										S	S	S										S	S
+SAMEA5542197	S							S						S	S										S	
+SAMEA5542198	S		S					S					S	S	S										S	S
 SAMEA787702								R					R					S					R		R	R
 SAMEA787703			S					R		S			R	S				S			S		S		R	S
 SAMEA787704			S					R		S			R	S				S			S		R		R	R
